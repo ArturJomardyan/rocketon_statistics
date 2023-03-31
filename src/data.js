@@ -1,16 +1,8 @@
-import history1 from "./coefficientsLists/coefficientsList_1.json"
-import history2 from "./coefficientsLists/coefficientsList_2.json"
-import history3 from "./coefficientsLists/coefficientsList_3.json"
-import history4 from "./coefficientsLists/coefficientsList_4.json"
-import history5 from "./coefficientsLists/coefficientsList_5.json"
-import history6 from "./coefficientsLists/coefficientsList_6.json"
-import history7 from "./coefficientsLists/coefficientsList_7.json"
-import history8 from "./coefficientsLists/coefficientsList_8.json"
+import coefficientsHistories from "./coefficientsHistories"
 
-const histories = [history1, history2, history3, history4, history5, history6,history7,history8]
-
-export const filter = 100
-export const data = histories.map(history => history.filter(x => x.data > filter).map(item => ({
+console.log(coefficientsHistories)
+export const filter = 49
+export const data = coefficientsHistories.map(history => history.filter(x => x.data > filter).map(item => ({
     bet: item.data,
     time: item.explosionTime.time
 })))
