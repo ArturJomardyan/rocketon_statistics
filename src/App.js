@@ -1,7 +1,6 @@
 import {Column} from '@ant-design/plots';
 import {Typography} from 'antd';
 
-import './App.css';
 import {data, filter, timeDiffInMinutes} from "./data"
 
 const {Text} = Typography;
