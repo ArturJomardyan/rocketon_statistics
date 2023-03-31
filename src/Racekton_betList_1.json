@@ -1,0 +1,4300 @@
+[
+    {
+        "data": 2.21,
+        "explosionTime": {
+            "time": "13:44:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.19,
+        "explosionTime": {
+            "time": "13:44:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.45,
+        "explosionTime": {
+            "time": "13:45:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "13:45:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 17.37,
+        "explosionTime": {
+            "time": "13:46:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.28,
+        "explosionTime": {
+            "time": "13:46:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.85,
+        "explosionTime": {
+            "time": "13:46:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.3,
+        "explosionTime": {
+            "time": "13:46:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.33,
+        "explosionTime": {
+            "time": "13:47:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.64,
+        "explosionTime": {
+            "time": "13:47:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 20.74,
+        "explosionTime": {
+            "time": "13:48:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.21,
+        "explosionTime": {
+            "time": "13:48:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "13:48:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.31,
+        "explosionTime": {
+            "time": "13:49:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.91,
+        "explosionTime": {
+            "time": "13:49:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.93,
+        "explosionTime": {
+            "time": "13:49:45",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.02,
+        "explosionTime": {
+            "time": "13:49:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 20.15,
+        "explosionTime": {
+            "time": "13:50:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.27,
+        "explosionTime": {
+            "time": "13:50:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.64,
+        "explosionTime": {
+            "time": "13:51:03",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.58,
+        "explosionTime": {
+            "time": "13:51:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.84,
+        "explosionTime": {
+            "time": "13:51:32",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.27,
+        "explosionTime": {
+            "time": "13:51:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.09,
+        "explosionTime": {
+            "time": "13:52:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.51,
+        "explosionTime": {
+            "time": "13:52:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.06,
+        "explosionTime": {
+            "time": "13:52:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.5,
+        "explosionTime": {
+            "time": "13:52:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.24,
+        "explosionTime": {
+            "time": "13:53:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.34,
+        "explosionTime": {
+            "time": "13:53:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.38,
+        "explosionTime": {
+            "time": "13:53:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.73,
+        "explosionTime": {
+            "time": "13:53:44",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.74,
+        "explosionTime": {
+            "time": "13:53:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 10.52,
+        "explosionTime": {
+            "time": "13:54:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.07,
+        "explosionTime": {
+            "time": "13:54:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.94,
+        "explosionTime": {
+            "time": "13:55:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 16793.91,
+        "explosionTime": {
+            "time": "13:57:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.01,
+        "explosionTime": {
+            "time": "13:57:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.57,
+        "explosionTime": {
+            "time": "13:57:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.81,
+        "explosionTime": {
+            "time": "13:57:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.97,
+        "explosionTime": {
+            "time": "13:58:14",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 21.54,
+        "explosionTime": {
+            "time": "13:58:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.22,
+        "explosionTime": {
+            "time": "13:59:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.18,
+        "explosionTime": {
+            "time": "13:59:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.02,
+        "explosionTime": {
+            "time": "13:59:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.13,
+        "explosionTime": {
+            "time": "14:00:19",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.44,
+        "explosionTime": {
+            "time": "14:00:38",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.98,
+        "explosionTime": {
+            "time": "14:00:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.54,
+        "explosionTime": {
+            "time": "14:01:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:01:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.71,
+        "explosionTime": {
+            "time": "14:01:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:01:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.54,
+        "explosionTime": {
+            "time": "14:02:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "14:02:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 45.08,
+        "explosionTime": {
+            "time": "14:03:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.28,
+        "explosionTime": {
+            "time": "14:03:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.09,
+        "explosionTime": {
+            "time": "14:03:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.2,
+        "explosionTime": {
+            "time": "14:04:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.37,
+        "explosionTime": {
+            "time": "14:04:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.85,
+        "explosionTime": {
+            "time": "14:04:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 21.56,
+        "explosionTime": {
+            "time": "14:05:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.55,
+        "explosionTime": {
+            "time": "14:06:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.88,
+        "explosionTime": {
+            "time": "14:06:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.55,
+        "explosionTime": {
+            "time": "14:06:29",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.22,
+        "explosionTime": {
+            "time": "14:06:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.05,
+        "explosionTime": {
+            "time": "14:07:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.92,
+        "explosionTime": {
+            "time": "14:07:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.51,
+        "explosionTime": {
+            "time": "14:07:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.68,
+        "explosionTime": {
+            "time": "14:07:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 24.55,
+        "explosionTime": {
+            "time": "14:08:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:08:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.2,
+        "explosionTime": {
+            "time": "14:09:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.27,
+        "explosionTime": {
+            "time": "14:09:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.38,
+        "explosionTime": {
+            "time": "14:09:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.6,
+        "explosionTime": {
+            "time": "14:10:06",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.76,
+        "explosionTime": {
+            "time": "14:10:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.7,
+        "explosionTime": {
+            "time": "14:10:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.38,
+        "explosionTime": {
+            "time": "14:11:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.09,
+        "explosionTime": {
+            "time": "14:11:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.17,
+        "explosionTime": {
+            "time": "14:11:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.03,
+        "explosionTime": {
+            "time": "14:11:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:12:04",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.4,
+        "explosionTime": {
+            "time": "14:12:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:12:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.28,
+        "explosionTime": {
+            "time": "14:12:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "14:12:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.18,
+        "explosionTime": {
+            "time": "14:13:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.58,
+        "explosionTime": {
+            "time": "14:13:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.24,
+        "explosionTime": {
+            "time": "14:13:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.54,
+        "explosionTime": {
+            "time": "14:13:55",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.93,
+        "explosionTime": {
+            "time": "14:14:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.31,
+        "explosionTime": {
+            "time": "14:14:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.28,
+        "explosionTime": {
+            "time": "14:14:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.3,
+        "explosionTime": {
+            "time": "14:15:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.45,
+        "explosionTime": {
+            "time": "14:15:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.28,
+        "explosionTime": {
+            "time": "14:15:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.64,
+        "explosionTime": {
+            "time": "14:16:14",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:16:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.27,
+        "explosionTime": {
+            "time": "14:16:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:16:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 37.24,
+        "explosionTime": {
+            "time": "14:17:32",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.8,
+        "explosionTime": {
+            "time": "14:17:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.11,
+        "explosionTime": {
+            "time": "14:18:04",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.91,
+        "explosionTime": {
+            "time": "14:18:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.59,
+        "explosionTime": {
+            "time": "14:18:44",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.38,
+        "explosionTime": {
+            "time": "14:19:03",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.03,
+        "explosionTime": {
+            "time": "14:19:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.94,
+        "explosionTime": {
+            "time": "14:19:28",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.37,
+        "explosionTime": {
+            "time": "14:19:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:19:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.44,
+        "explosionTime": {
+            "time": "14:20:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.64,
+        "explosionTime": {
+            "time": "14:20:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.48,
+        "explosionTime": {
+            "time": "14:20:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.11,
+        "explosionTime": {
+            "time": "14:20:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.06,
+        "explosionTime": {
+            "time": "14:21:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.44,
+        "explosionTime": {
+            "time": "14:21:28",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.07,
+        "explosionTime": {
+            "time": "14:21:38",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.21,
+        "explosionTime": {
+            "time": "14:21:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.65,
+        "explosionTime": {
+            "time": "14:22:04",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.67,
+        "explosionTime": {
+            "time": "14:22:27",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.35,
+        "explosionTime": {
+            "time": "14:22:45",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 113.6,
+        "explosionTime": {
+            "time": "14:23:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.51,
+        "explosionTime": {
+            "time": "14:24:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.18,
+        "explosionTime": {
+            "time": "14:24:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 29.22,
+        "explosionTime": {
+            "time": "14:25:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.68,
+        "explosionTime": {
+            "time": "14:25:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.06,
+        "explosionTime": {
+            "time": "14:25:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.03,
+        "explosionTime": {
+            "time": "14:25:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.36,
+        "explosionTime": {
+            "time": "14:26:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 37,
+        "explosionTime": {
+            "time": "14:26:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.76,
+        "explosionTime": {
+            "time": "14:27:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.9,
+        "explosionTime": {
+            "time": "14:27:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.09,
+        "explosionTime": {
+            "time": "14:27:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.53,
+        "explosionTime": {
+            "time": "14:28:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.04,
+        "explosionTime": {
+            "time": "14:28:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.24,
+        "explosionTime": {
+            "time": "14:28:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2,
+        "explosionTime": {
+            "time": "14:28:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.47,
+        "explosionTime": {
+            "time": "14:29:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.12,
+        "explosionTime": {
+            "time": "14:29:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 11.02,
+        "explosionTime": {
+            "time": "14:29:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.18,
+        "explosionTime": {
+            "time": "14:30:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.54,
+        "explosionTime": {
+            "time": "14:30:36",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.39,
+        "explosionTime": {
+            "time": "14:30:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 10.18,
+        "explosionTime": {
+            "time": "14:31:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2,
+        "explosionTime": {
+            "time": "14:31:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.29,
+        "explosionTime": {
+            "time": "14:31:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.04,
+        "explosionTime": {
+            "time": "14:32:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.26,
+        "explosionTime": {
+            "time": "14:32:27",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:32:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.17,
+        "explosionTime": {
+            "time": "14:33:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.77,
+        "explosionTime": {
+            "time": "14:33:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.11,
+        "explosionTime": {
+            "time": "14:33:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.62,
+        "explosionTime": {
+            "time": "14:33:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.36,
+        "explosionTime": {
+            "time": "14:33:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.16,
+        "explosionTime": {
+            "time": "14:34:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.12,
+        "explosionTime": {
+            "time": "14:34:33",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.76,
+        "explosionTime": {
+            "time": "14:34:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.2,
+        "explosionTime": {
+            "time": "14:34:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 54.99,
+        "explosionTime": {
+            "time": "14:35:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.35,
+        "explosionTime": {
+            "time": "14:36:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.47,
+        "explosionTime": {
+            "time": "14:36:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.95,
+        "explosionTime": {
+            "time": "14:36:55",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.45,
+        "explosionTime": {
+            "time": "14:37:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.06,
+        "explosionTime": {
+            "time": "14:37:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8.42,
+        "explosionTime": {
+            "time": "14:37:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.15,
+        "explosionTime": {
+            "time": "14:38:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.5,
+        "explosionTime": {
+            "time": "14:38:26",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.8,
+        "explosionTime": {
+            "time": "14:38:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.47,
+        "explosionTime": {
+            "time": "14:39:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.09,
+        "explosionTime": {
+            "time": "14:39:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.54,
+        "explosionTime": {
+            "time": "14:39:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 13.86,
+        "explosionTime": {
+            "time": "14:40:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.29,
+        "explosionTime": {
+            "time": "14:40:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.08,
+        "explosionTime": {
+            "time": "14:40:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.31,
+        "explosionTime": {
+            "time": "14:41:06",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.12,
+        "explosionTime": {
+            "time": "14:41:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.68,
+        "explosionTime": {
+            "time": "14:41:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:41:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.11,
+        "explosionTime": {
+            "time": "14:41:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:42:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.21,
+        "explosionTime": {
+            "time": "14:42:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.41,
+        "explosionTime": {
+            "time": "14:42:28",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.55,
+        "explosionTime": {
+            "time": "14:42:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.29,
+        "explosionTime": {
+            "time": "14:42:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.97,
+        "explosionTime": {
+            "time": "14:43:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.61,
+        "explosionTime": {
+            "time": "14:43:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.41,
+        "explosionTime": {
+            "time": "14:43:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.06,
+        "explosionTime": {
+            "time": "14:44:19",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.25,
+        "explosionTime": {
+            "time": "14:44:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.22,
+        "explosionTime": {
+            "time": "14:44:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.31,
+        "explosionTime": {
+            "time": "14:44:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.69,
+        "explosionTime": {
+            "time": "14:45:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 25.19,
+        "explosionTime": {
+            "time": "14:46:02",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 12.81,
+        "explosionTime": {
+            "time": "14:46:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2,
+        "explosionTime": {
+            "time": "14:46:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.34,
+        "explosionTime": {
+            "time": "14:47:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.28,
+        "explosionTime": {
+            "time": "14:47:32",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.39,
+        "explosionTime": {
+            "time": "14:47:45",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.04,
+        "explosionTime": {
+            "time": "14:47:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.09,
+        "explosionTime": {
+            "time": "14:48:04",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.24,
+        "explosionTime": {
+            "time": "14:48:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.63,
+        "explosionTime": {
+            "time": "14:48:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 34.24,
+        "explosionTime": {
+            "time": "14:49:19",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.33,
+        "explosionTime": {
+            "time": "14:49:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.07,
+        "explosionTime": {
+            "time": "14:49:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.36,
+        "explosionTime": {
+            "time": "14:49:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.18,
+        "explosionTime": {
+            "time": "14:50:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.66,
+        "explosionTime": {
+            "time": "14:50:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.3,
+        "explosionTime": {
+            "time": "14:50:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.35,
+        "explosionTime": {
+            "time": "14:51:04",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.21,
+        "explosionTime": {
+            "time": "14:51:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.98,
+        "explosionTime": {
+            "time": "14:51:36",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.33,
+        "explosionTime": {
+            "time": "14:51:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.16,
+        "explosionTime": {
+            "time": "14:52:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.61,
+        "explosionTime": {
+            "time": "14:52:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.04,
+        "explosionTime": {
+            "time": "14:52:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.34,
+        "explosionTime": {
+            "time": "14:52:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.93,
+        "explosionTime": {
+            "time": "14:53:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8.68,
+        "explosionTime": {
+            "time": "14:53:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.41,
+        "explosionTime": {
+            "time": "14:53:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.63,
+        "explosionTime": {
+            "time": "14:54:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.25,
+        "explosionTime": {
+            "time": "14:54:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.21,
+        "explosionTime": {
+            "time": "14:54:46",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.51,
+        "explosionTime": {
+            "time": "14:54:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.85,
+        "explosionTime": {
+            "time": "14:55:20",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "14:55:28",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.01,
+        "explosionTime": {
+            "time": "14:55:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.27,
+        "explosionTime": {
+            "time": "14:55:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.26,
+        "explosionTime": {
+            "time": "14:56:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.21,
+        "explosionTime": {
+            "time": "14:56:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.4,
+        "explosionTime": {
+            "time": "14:56:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.47,
+        "explosionTime": {
+            "time": "14:56:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.43,
+        "explosionTime": {
+            "time": "14:57:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.68,
+        "explosionTime": {
+            "time": "14:57:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.36,
+        "explosionTime": {
+            "time": "14:57:36",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.25,
+        "explosionTime": {
+            "time": "14:58:01",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.31,
+        "explosionTime": {
+            "time": "14:58:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.53,
+        "explosionTime": {
+            "time": "14:58:32",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.19,
+        "explosionTime": {
+            "time": "14:58:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.15,
+        "explosionTime": {
+            "time": "14:59:06",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.07,
+        "explosionTime": {
+            "time": "14:59:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.22,
+        "explosionTime": {
+            "time": "14:59:27",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.25,
+        "explosionTime": {
+            "time": "14:59:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.33,
+        "explosionTime": {
+            "time": "15:00:01",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.1,
+        "explosionTime": {
+            "time": "15:00:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.23,
+        "explosionTime": {
+            "time": "15:00:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "15:00:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.78,
+        "explosionTime": {
+            "time": "15:01:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.07,
+        "explosionTime": {
+            "time": "15:01:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "15:01:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.5,
+        "explosionTime": {
+            "time": "15:02:02",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.57,
+        "explosionTime": {
+            "time": "15:02:28",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.01,
+        "explosionTime": {
+            "time": "15:02:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.25,
+        "explosionTime": {
+            "time": "15:02:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.23,
+        "explosionTime": {
+            "time": "15:03:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 16.84,
+        "explosionTime": {
+            "time": "15:03:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.03,
+        "explosionTime": {
+            "time": "15:04:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.66,
+        "explosionTime": {
+            "time": "15:04:14",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.2,
+        "explosionTime": {
+            "time": "15:04:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.32,
+        "explosionTime": {
+            "time": "15:04:55",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.86,
+        "explosionTime": {
+            "time": "15:05:29",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.18,
+        "explosionTime": {
+            "time": "15:05:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "15:05:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.5,
+        "explosionTime": {
+            "time": "15:06:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 40.18,
+        "explosionTime": {
+            "time": "15:07:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.57,
+        "explosionTime": {
+            "time": "15:07:32",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.71,
+        "explosionTime": {
+            "time": "15:07:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.74,
+        "explosionTime": {
+            "time": "15:08:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.77,
+        "explosionTime": {
+            "time": "15:08:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "15:08:32",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.66,
+        "explosionTime": {
+            "time": "15:08:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.12,
+        "explosionTime": {
+            "time": "15:09:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.24,
+        "explosionTime": {
+            "time": "15:09:20",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.14,
+        "explosionTime": {
+            "time": "15:09:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.33,
+        "explosionTime": {
+            "time": "15:09:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.37,
+        "explosionTime": {
+            "time": "15:10:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.17,
+        "explosionTime": {
+            "time": "15:10:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.77,
+        "explosionTime": {
+            "time": "15:10:36",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.13,
+        "explosionTime": {
+            "time": "15:10:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 11.01,
+        "explosionTime": {
+            "time": "15:11:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.02,
+        "explosionTime": {
+            "time": "15:11:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.77,
+        "explosionTime": {
+            "time": "15:11:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.46,
+        "explosionTime": {
+            "time": "15:12:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.36,
+        "explosionTime": {
+            "time": "15:12:29",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.04,
+        "explosionTime": {
+            "time": "15:12:38",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.97,
+        "explosionTime": {
+            "time": "15:12:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2,
+        "explosionTime": {
+            "time": "15:13:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.99,
+        "explosionTime": {
+            "time": "15:13:27",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.56,
+        "explosionTime": {
+            "time": "15:13:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.83,
+        "explosionTime": {
+            "time": "15:14:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.28,
+        "explosionTime": {
+            "time": "15:14:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.55,
+        "explosionTime": {
+            "time": "15:14:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.45,
+        "explosionTime": {
+            "time": "15:15:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.59,
+        "explosionTime": {
+            "time": "15:15:19",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.55,
+        "explosionTime": {
+            "time": "15:15:38",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 11.05,
+        "explosionTime": {
+            "time": "15:16:14",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 14.54,
+        "explosionTime": {
+            "time": "15:16:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.03,
+        "explosionTime": {
+            "time": "15:17:02",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.17,
+        "explosionTime": {
+            "time": "15:17:20",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.71,
+        "explosionTime": {
+            "time": "15:17:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.65,
+        "explosionTime": {
+            "time": "15:18:04",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.53,
+        "explosionTime": {
+            "time": "15:18:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.01,
+        "explosionTime": {
+            "time": "15:18:38",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.19,
+        "explosionTime": {
+            "time": "15:18:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.37,
+        "explosionTime": {
+            "time": "15:19:02",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 12.76,
+        "explosionTime": {
+            "time": "15:19:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.01,
+        "explosionTime": {
+            "time": "15:19:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.63,
+        "explosionTime": {
+            "time": "15:20:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 11.1,
+        "explosionTime": {
+            "time": "15:20:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.06,
+        "explosionTime": {
+            "time": "15:21:02",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.8,
+        "explosionTime": {
+            "time": "15:21:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.34,
+        "explosionTime": {
+            "time": "15:21:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.02,
+        "explosionTime": {
+            "time": "15:21:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.22,
+        "explosionTime": {
+            "time": "15:22:14",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.15,
+        "explosionTime": {
+            "time": "15:22:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.3,
+        "explosionTime": {
+            "time": "15:23:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 25.89,
+        "explosionTime": {
+            "time": "15:24:01",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.08,
+        "explosionTime": {
+            "time": "15:24:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 22.95,
+        "explosionTime": {
+            "time": "15:24:55",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.29,
+        "explosionTime": {
+            "time": "15:25:27",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.68,
+        "explosionTime": {
+            "time": "15:25:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.56,
+        "explosionTime": {
+            "time": "15:25:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.36,
+        "explosionTime": {
+            "time": "15:26:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.44,
+        "explosionTime": {
+            "time": "15:26:19",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.02,
+        "explosionTime": {
+            "time": "15:26:36",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.9,
+        "explosionTime": {
+            "time": "15:26:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "15:27:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.56,
+        "explosionTime": {
+            "time": "15:27:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.2,
+        "explosionTime": {
+            "time": "15:27:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.16,
+        "explosionTime": {
+            "time": "15:27:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "15:27:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.17,
+        "explosionTime": {
+            "time": "15:28:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.83,
+        "explosionTime": {
+            "time": "15:28:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.6,
+        "explosionTime": {
+            "time": "15:28:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.29,
+        "explosionTime": {
+            "time": "15:29:06",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.93,
+        "explosionTime": {
+            "time": "15:29:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.64,
+        "explosionTime": {
+            "time": "15:29:44",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.17,
+        "explosionTime": {
+            "time": "15:29:55",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 11.08,
+        "explosionTime": {
+            "time": "15:30:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.33,
+        "explosionTime": {
+            "time": "15:30:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.7,
+        "explosionTime": {
+            "time": "15:30:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.22,
+        "explosionTime": {
+            "time": "15:31:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 32.26,
+        "explosionTime": {
+            "time": "15:32:03",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.88,
+        "explosionTime": {
+            "time": "15:32:19",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "15:32:27",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.74,
+        "explosionTime": {
+            "time": "15:32:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.21,
+        "explosionTime": {
+            "time": "15:33:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.72,
+        "explosionTime": {
+            "time": "15:33:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.95,
+        "explosionTime": {
+            "time": "15:34:20",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 33.5,
+        "explosionTime": {
+            "time": "15:35:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 94.96,
+        "explosionTime": {
+            "time": "15:36:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.35,
+        "explosionTime": {
+            "time": "15:36:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 10.94,
+        "explosionTime": {
+            "time": "15:36:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.57,
+        "explosionTime": {
+            "time": "15:37:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.65,
+        "explosionTime": {
+            "time": "15:37:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.66,
+        "explosionTime": {
+            "time": "15:38:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 15.98,
+        "explosionTime": {
+            "time": "15:38:45",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.03,
+        "explosionTime": {
+            "time": "15:38:55",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.49,
+        "explosionTime": {
+            "time": "15:39:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.72,
+        "explosionTime": {
+            "time": "15:39:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.38,
+        "explosionTime": {
+            "time": "15:40:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.46,
+        "explosionTime": {
+            "time": "15:40:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.14,
+        "explosionTime": {
+            "time": "15:40:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.21,
+        "explosionTime": {
+            "time": "15:40:45",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "15:40:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.71,
+        "explosionTime": {
+            "time": "15:41:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.09,
+        "explosionTime": {
+            "time": "15:41:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.22,
+        "explosionTime": {
+            "time": "15:41:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.38,
+        "explosionTime": {
+            "time": "15:42:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.44,
+        "explosionTime": {
+            "time": "15:42:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 31.92,
+        "explosionTime": {
+            "time": "15:43:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 16.29,
+        "explosionTime": {
+            "time": "15:44:02",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 20.87,
+        "explosionTime": {
+            "time": "15:44:46",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 60.8,
+        "explosionTime": {
+            "time": "15:45:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.06,
+        "explosionTime": {
+            "time": "15:45:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 14.83,
+        "explosionTime": {
+            "time": "15:46:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.61,
+        "explosionTime": {
+            "time": "15:46:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.84,
+        "explosionTime": {
+            "time": "15:47:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.9,
+        "explosionTime": {
+            "time": "15:47:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.35,
+        "explosionTime": {
+            "time": "15:47:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.42,
+        "explosionTime": {
+            "time": "15:47:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.11,
+        "explosionTime": {
+            "time": "15:48:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.64,
+        "explosionTime": {
+            "time": "15:48:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.78,
+        "explosionTime": {
+            "time": "15:48:55",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 18.5,
+        "explosionTime": {
+            "time": "15:49:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 48.2,
+        "explosionTime": {
+            "time": "15:50:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.29,
+        "explosionTime": {
+            "time": "15:50:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.7,
+        "explosionTime": {
+            "time": "15:50:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 55.29,
+        "explosionTime": {
+            "time": "15:51:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.28,
+        "explosionTime": {
+            "time": "15:52:02",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.45,
+        "explosionTime": {
+            "time": "15:52:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.52,
+        "explosionTime": {
+            "time": "15:52:46",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.42,
+        "explosionTime": {
+            "time": "15:53:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.01,
+        "explosionTime": {
+            "time": "15:53:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.43,
+        "explosionTime": {
+            "time": "15:53:36",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.1,
+        "explosionTime": {
+            "time": "15:53:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.6,
+        "explosionTime": {
+            "time": "15:54:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.31,
+        "explosionTime": {
+            "time": "15:54:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.02,
+        "explosionTime": {
+            "time": "15:54:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.27,
+        "explosionTime": {
+            "time": "15:54:33",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 16.08,
+        "explosionTime": {
+            "time": "15:55:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "15:55:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.16,
+        "explosionTime": {
+            "time": "15:55:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.71,
+        "explosionTime": {
+            "time": "15:55:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.85,
+        "explosionTime": {
+            "time": "15:56:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 12.37,
+        "explosionTime": {
+            "time": "15:56:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "15:57:04",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.54,
+        "explosionTime": {
+            "time": "15:57:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.56,
+        "explosionTime": {
+            "time": "15:57:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.62,
+        "explosionTime": {
+            "time": "15:57:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.54,
+        "explosionTime": {
+            "time": "15:58:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.21,
+        "explosionTime": {
+            "time": "15:58:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "15:58:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.2,
+        "explosionTime": {
+            "time": "15:59:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.4,
+        "explosionTime": {
+            "time": "15:59:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.4,
+        "explosionTime": {
+            "time": "15:59:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.17,
+        "explosionTime": {
+            "time": "15:59:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.62,
+        "explosionTime": {
+            "time": "16:00:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 13.74,
+        "explosionTime": {
+            "time": "16:00:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.69,
+        "explosionTime": {
+            "time": "16:01:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 18.99,
+        "explosionTime": {
+            "time": "16:01:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.08,
+        "explosionTime": {
+            "time": "16:02:20",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.51,
+        "explosionTime": {
+            "time": "16:02:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.23,
+        "explosionTime": {
+            "time": "16:02:45",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.68,
+        "explosionTime": {
+            "time": "16:03:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.22,
+        "explosionTime": {
+            "time": "16:03:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.02,
+        "explosionTime": {
+            "time": "16:04:06",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.43,
+        "explosionTime": {
+            "time": "16:04:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.11,
+        "explosionTime": {
+            "time": "16:04:44",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.23,
+        "explosionTime": {
+            "time": "16:05:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.09,
+        "explosionTime": {
+            "time": "16:05:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.18,
+        "explosionTime": {
+            "time": "16:05:44",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.62,
+        "explosionTime": {
+            "time": "16:05:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.6,
+        "explosionTime": {
+            "time": "16:06:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.1,
+        "explosionTime": {
+            "time": "16:06:28",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8.7,
+        "explosionTime": {
+            "time": "16:07:01",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.67,
+        "explosionTime": {
+            "time": "16:07:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.05,
+        "explosionTime": {
+            "time": "16:07:32",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 10.37,
+        "explosionTime": {
+            "time": "16:08:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.13,
+        "explosionTime": {
+            "time": "16:08:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8.92,
+        "explosionTime": {
+            "time": "16:08:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.77,
+        "explosionTime": {
+            "time": "16:09:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.58,
+        "explosionTime": {
+            "time": "16:09:38",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.04,
+        "explosionTime": {
+            "time": "16:09:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.11,
+        "explosionTime": {
+            "time": "16:09:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.05,
+        "explosionTime": {
+            "time": "16:10:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.84,
+        "explosionTime": {
+            "time": "16:10:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.41,
+        "explosionTime": {
+            "time": "16:10:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 38.64,
+        "explosionTime": {
+            "time": "16:11:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.37,
+        "explosionTime": {
+            "time": "16:11:46",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.81,
+        "explosionTime": {
+            "time": "16:12:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 16.45,
+        "explosionTime": {
+            "time": "16:12:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.19,
+        "explosionTime": {
+            "time": "16:13:01",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.12,
+        "explosionTime": {
+            "time": "16:13:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.16,
+        "explosionTime": {
+            "time": "16:13:29",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.05,
+        "explosionTime": {
+            "time": "16:13:46",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.29,
+        "explosionTime": {
+            "time": "16:13:57",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "16:14:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.02,
+        "explosionTime": {
+            "time": "16:14:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.04,
+        "explosionTime": {
+            "time": "16:14:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.45,
+        "explosionTime": {
+            "time": "16:15:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.85,
+        "explosionTime": {
+            "time": "16:15:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.93,
+        "explosionTime": {
+            "time": "16:15:55",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.13,
+        "explosionTime": {
+            "time": "16:16:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.73,
+        "explosionTime": {
+            "time": "16:16:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8.37,
+        "explosionTime": {
+            "time": "16:16:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "16:17:06",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.55,
+        "explosionTime": {
+            "time": "16:17:29",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8518.73,
+        "explosionTime": {
+            "time": "16:19:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.03,
+        "explosionTime": {
+            "time": "16:19:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8.77,
+        "explosionTime": {
+            "time": "16:20:04",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "16:20:13",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 13.25,
+        "explosionTime": {
+            "time": "16:20:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.79,
+        "explosionTime": {
+            "time": "16:21:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.79,
+        "explosionTime": {
+            "time": "16:21:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.23,
+        "explosionTime": {
+            "time": "16:22:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.06,
+        "explosionTime": {
+            "time": "16:22:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.33,
+        "explosionTime": {
+            "time": "16:22:29",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.2,
+        "explosionTime": {
+            "time": "16:22:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.88,
+        "explosionTime": {
+            "time": "16:23:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 13.16,
+        "explosionTime": {
+            "time": "16:23:45",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "16:23:53",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 13.68,
+        "explosionTime": {
+            "time": "16:24:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.64,
+        "explosionTime": {
+            "time": "16:24:46",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "16:24:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.13,
+        "explosionTime": {
+            "time": "16:25:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.05,
+        "explosionTime": {
+            "time": "16:25:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.7,
+        "explosionTime": {
+            "time": "16:25:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 53.97,
+        "explosionTime": {
+            "time": "16:26:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 80.44,
+        "explosionTime": {
+            "time": "16:27:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.99,
+        "explosionTime": {
+            "time": "16:28:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.17,
+        "explosionTime": {
+            "time": "16:28:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.51,
+        "explosionTime": {
+            "time": "16:28:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.1,
+        "explosionTime": {
+            "time": "16:29:05",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.72,
+        "explosionTime": {
+            "time": "16:29:20",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.71,
+        "explosionTime": {
+            "time": "16:29:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 769.75,
+        "explosionTime": {
+            "time": "16:31:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.55,
+        "explosionTime": {
+            "time": "16:31:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.75,
+        "explosionTime": {
+            "time": "16:32:01",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.69,
+        "explosionTime": {
+            "time": "16:32:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.63,
+        "explosionTime": {
+            "time": "16:32:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.52,
+        "explosionTime": {
+            "time": "16:33:20",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 73.23,
+        "explosionTime": {
+            "time": "16:34:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8.09,
+        "explosionTime": {
+            "time": "16:34:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.34,
+        "explosionTime": {
+            "time": "16:35:02",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.71,
+        "explosionTime": {
+            "time": "16:35:16",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.48,
+        "explosionTime": {
+            "time": "16:35:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.54,
+        "explosionTime": {
+            "time": "16:35:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.55,
+        "explosionTime": {
+            "time": "16:36:09",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.29,
+        "explosionTime": {
+            "time": "16:36:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.4,
+        "explosionTime": {
+            "time": "16:36:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.96,
+        "explosionTime": {
+            "time": "16:37:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.47,
+        "explosionTime": {
+            "time": "16:37:45",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.22,
+        "explosionTime": {
+            "time": "16:37:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.27,
+        "explosionTime": {
+            "time": "16:38:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.99,
+        "explosionTime": {
+            "time": "16:38:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.31,
+        "explosionTime": {
+            "time": "16:38:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.8,
+        "explosionTime": {
+            "time": "16:39:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.87,
+        "explosionTime": {
+            "time": "16:39:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.46,
+        "explosionTime": {
+            "time": "16:39:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.19,
+        "explosionTime": {
+            "time": "16:40:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "16:40:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.38,
+        "explosionTime": {
+            "time": "16:40:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.6,
+        "explosionTime": {
+            "time": "16:41:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.3,
+        "explosionTime": {
+            "time": "16:41:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.1,
+        "explosionTime": {
+            "time": "16:41:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.65,
+        "explosionTime": {
+            "time": "16:41:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.01,
+        "explosionTime": {
+            "time": "16:42:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.86,
+        "explosionTime": {
+            "time": "16:42:26",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.45,
+        "explosionTime": {
+            "time": "16:42:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "16:42:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.6,
+        "explosionTime": {
+            "time": "16:43:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.29,
+        "explosionTime": {
+            "time": "16:43:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.04,
+        "explosionTime": {
+            "time": "16:43:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.1,
+        "explosionTime": {
+            "time": "16:44:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.24,
+        "explosionTime": {
+            "time": "16:44:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.42,
+        "explosionTime": {
+            "time": "16:44:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 53.03,
+        "explosionTime": {
+            "time": "16:45:18",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 15.61,
+        "explosionTime": {
+            "time": "16:45:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.17,
+        "explosionTime": {
+            "time": "16:46:19",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.67,
+        "explosionTime": {
+            "time": "16:46:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.43,
+        "explosionTime": {
+            "time": "16:46:52",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.7,
+        "explosionTime": {
+            "time": "16:47:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.59,
+        "explosionTime": {
+            "time": "16:47:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.83,
+        "explosionTime": {
+            "time": "16:47:36",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.98,
+        "explosionTime": {
+            "time": "16:48:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 16.99,
+        "explosionTime": {
+            "time": "16:48:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 164.65,
+        "explosionTime": {
+            "time": "16:49:48",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.23,
+        "explosionTime": {
+            "time": "16:50:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 15.11,
+        "explosionTime": {
+            "time": "16:50:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.22,
+        "explosionTime": {
+            "time": "16:51:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "16:51:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 40.54,
+        "explosionTime": {
+            "time": "16:52:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.5,
+        "explosionTime": {
+            "time": "16:52:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.14,
+        "explosionTime": {
+            "time": "16:52:41",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.07,
+        "explosionTime": {
+            "time": "16:52:51",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.55,
+        "explosionTime": {
+            "time": "16:53:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 14.67,
+        "explosionTime": {
+            "time": "16:53:50",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.53,
+        "explosionTime": {
+            "time": "16:54:03",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 5.39,
+        "explosionTime": {
+            "time": "16:54:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 14.09,
+        "explosionTime": {
+            "time": "16:55:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.57,
+        "explosionTime": {
+            "time": "16:55:24",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 27.36,
+        "explosionTime": {
+            "time": "16:56:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.8,
+        "explosionTime": {
+            "time": "16:56:42",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 8.44,
+        "explosionTime": {
+            "time": "16:57:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "16:57:26",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.03,
+        "explosionTime": {
+            "time": "16:57:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "16:57:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.4,
+        "explosionTime": {
+            "time": "16:57:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.8,
+        "explosionTime": {
+            "time": "16:58:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.59,
+        "explosionTime": {
+            "time": "16:58:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.1,
+        "explosionTime": {
+            "time": "16:58:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.95,
+        "explosionTime": {
+            "time": "16:59:14",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 4.09,
+        "explosionTime": {
+            "time": "16:59:39",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.79,
+        "explosionTime": {
+            "time": "16:59:54",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.42,
+        "explosionTime": {
+            "time": "17:00:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.1,
+        "explosionTime": {
+            "time": "17:00:17",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 6.46,
+        "explosionTime": {
+            "time": "17:00:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.42,
+        "explosionTime": {
+            "time": "17:00:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.35,
+        "explosionTime": {
+            "time": "17:01:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 24.79,
+        "explosionTime": {
+            "time": "17:02:07",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.26,
+        "explosionTime": {
+            "time": "17:02:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 89.2,
+        "explosionTime": {
+            "time": "17:03:25",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.85,
+        "explosionTime": {
+            "time": "17:03:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "17:03:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.08,
+        "explosionTime": {
+            "time": "17:03:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.51,
+        "explosionTime": {
+            "time": "17:04:12",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.66,
+        "explosionTime": {
+            "time": "17:04:26",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.16,
+        "explosionTime": {
+            "time": "17:04:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 12.76,
+        "explosionTime": {
+            "time": "17:05:15",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.75,
+        "explosionTime": {
+            "time": "17:05:38",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.2,
+        "explosionTime": {
+            "time": "17:05:49",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.19,
+        "explosionTime": {
+            "time": "17:06:00",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 9.6,
+        "explosionTime": {
+            "time": "17:06:35",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.94,
+        "explosionTime": {
+            "time": "17:06:56",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.87,
+        "explosionTime": {
+            "time": "17:07:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.29,
+        "explosionTime": {
+            "time": "17:07:23",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.63,
+        "explosionTime": {
+            "time": "17:07:37",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.08,
+        "explosionTime": {
+            "time": "17:07:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.25,
+        "explosionTime": {
+            "time": "17:07:59",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.24,
+        "explosionTime": {
+            "time": "17:08:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.17,
+        "explosionTime": {
+            "time": "17:08:21",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 34.69,
+        "explosionTime": {
+            "time": "17:09:10",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.99,
+        "explosionTime": {
+            "time": "17:09:34",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.47,
+        "explosionTime": {
+            "time": "17:09:47",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.19,
+        "explosionTime": {
+            "time": "17:09:58",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.15,
+        "explosionTime": {
+            "time": "17:10:08",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.49,
+        "explosionTime": {
+            "time": "17:10:22",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1,
+        "explosionTime": {
+            "time": "17:10:30",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.09,
+        "explosionTime": {
+            "time": "17:10:40",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 7.18,
+        "explosionTime": {
+            "time": "17:11:11",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 2.81,
+        "explosionTime": {
+            "time": "17:11:31",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.27,
+        "explosionTime": {
+            "time": "17:11:43",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 3.69,
+        "explosionTime": {
+            "time": "17:12:06",
+            "date": "23.03.23"
+        }
+    },
+    {
+        "data": 1.09,
+        "explosionTime": {
+            "time": "17:12:16",
+            "date": "23.03.23"
+        }
+    }
+]
