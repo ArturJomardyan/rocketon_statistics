@@ -1,13 +1,4 @@
-import coefficientsHistories from "./coefficientsHistories"
-
-console.log(coefficientsHistories)
-export const filter = 49
-export const data = coefficientsHistories.map(history => history.filter(x => x.data > filter).map(item => ({
-    bet: item.data,
-    time: item.explosionTime.time
-})))
-
-export function timeDiffInMinutes(timeArr) {
+export const timeDiffInMinutes = (timeArr) => {
     let diffArr = [{bet: timeArr[0].bet, time: 0}];
     for (let i = 1; i < timeArr.length; i++) {
         let startTime = new Date('01/01/2023 ' + timeArr[i - 1].time);
@@ -18,11 +9,3 @@ export function timeDiffInMinutes(timeArr) {
     }
     return diffArr.sort((a, b) => b.time - a.time);
 }
-
-
-
-
-
-
-
-

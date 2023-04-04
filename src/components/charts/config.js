@@ -1,6 +1,6 @@
 export const config = {
-    xField: 'time',
-    yField: 'bet',
+    xField: 'explosionTime',
+    yField: 'coefficient',
     xAxis: {
         label: {
             autoRotate: false,

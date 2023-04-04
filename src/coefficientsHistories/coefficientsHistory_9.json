@@ -1,0 +1,1778 @@
+[
+  {
+    "coefficient": 2.01,
+    "explosionTime": 1680596275845
+  },
+  {
+    "coefficient": 1.53,
+    "explosionTime": 1680596289077
+  },
+  {
+    "coefficient": 12.93,
+    "explosionTime": 1680596326959
+  },
+  {
+    "coefficient": 1.29,
+    "explosionTime": 1680596338661
+  },
+  {
+    "coefficient": 2.09,
+    "explosionTime": 1680596355580
+  },
+  {
+    "coefficient": 3.99,
+    "explosionTime": 1680596380040
+  },
+  {
+    "coefficient": 1.23,
+    "explosionTime": 1680596391443
+  },
+  {
+    "coefficient": 6.78,
+    "explosionTime": 1680596421878
+  },
+  {
+    "coefficient": 6.08,
+    "explosionTime": 1680596451031
+  },
+  {
+    "coefficient": 1.19,
+    "explosionTime": 1680596462239
+  },
+  {
+    "coefficient": 1.1,
+    "explosionTime": 1680596472454
+  },
+  {
+    "coefficient": 1.6,
+    "explosionTime": 1680596486329
+  },
+  {
+    "coefficient": 1.77,
+    "explosionTime": 1680596501282
+  },
+  {
+    "coefficient": 2.67,
+    "explosionTime": 1680596521040
+  },
+  {
+    "coefficient": 1.74,
+    "explosionTime": 1680596535790
+  },
+  {
+    "coefficient": 14.59,
+    "explosionTime": 1680596574968
+  },
+  {
+    "coefficient": 2.07,
+    "explosionTime": 1680596591817
+  },
+  {
+    "coefficient": 3.77,
+    "explosionTime": 1680596615496
+  },
+  {
+    "coefficient": 1.04,
+    "explosionTime": 1680596624949
+  },
+  {
+    "coefficient": 2.13,
+    "explosionTime": 1680596642025
+  },
+  {
+    "coefficient": 1.09,
+    "explosionTime": 1680596652114
+  },
+  {
+    "coefficient": 4.04,
+    "explosionTime": 1680596676533
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680596684794
+  },
+  {
+    "coefficient": 1.82,
+    "explosionTime": 1680596700167
+  },
+  {
+    "coefficient": 2.14,
+    "explosionTime": 1680596717524
+  },
+  {
+    "coefficient": 1.19,
+    "explosionTime": 1680596728484
+  },
+  {
+    "coefficient": 4.41,
+    "explosionTime": 1680596753939
+  },
+  {
+    "coefficient": 1.16,
+    "explosionTime": 1680596764639
+  },
+  {
+    "coefficient": 2.31,
+    "explosionTime": 1680596782700
+  },
+  {
+    "coefficient": 4.37,
+    "explosionTime": 1680596808391
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680596817050
+  },
+  {
+    "coefficient": 32.85,
+    "explosionTime": 1680596865824
+  },
+  {
+    "coefficient": 75.2,
+    "explosionTime": 1680596923728
+  },
+  {
+    "coefficient": 25.5,
+    "explosionTime": 1680596969328
+  },
+  {
+    "coefficient": 2.29,
+    "explosionTime": 1680596987307
+  },
+  {
+    "coefficient": 1.37,
+    "explosionTime": 1680597000198
+  },
+  {
+    "coefficient": 1.1,
+    "explosionTime": 1680597010995
+  },
+  {
+    "coefficient": 1.46,
+    "explosionTime": 1680597023997
+  },
+  {
+    "coefficient": 6.76,
+    "explosionTime": 1680597054686
+  },
+  {
+    "coefficient": 1.9,
+    "explosionTime": 1680597070651
+  },
+  {
+    "coefficient": 1.32,
+    "explosionTime": 1680597082532
+  },
+  {
+    "coefficient": 16.23,
+    "explosionTime": 1680597122954
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680597131258
+  },
+  {
+    "coefficient": 2.67,
+    "explosionTime": 1680597151018
+  },
+  {
+    "coefficient": 1.37,
+    "explosionTime": 1680597163234
+  },
+  {
+    "coefficient": 1.46,
+    "explosionTime": 1680597176094
+  },
+  {
+    "coefficient": 1.68,
+    "explosionTime": 1680597190470
+  },
+  {
+    "coefficient": 6.56,
+    "explosionTime": 1680597220489
+  },
+  {
+    "coefficient": 4.41,
+    "explosionTime": 1680597245943
+  },
+  {
+    "coefficient": 13.64,
+    "explosionTime": 1680597284345
+  },
+  {
+    "coefficient": 1.5,
+    "explosionTime": 1680597297426
+  },
+  {
+    "coefficient": 3.86,
+    "explosionTime": 1680597321367
+  },
+  {
+    "coefficient": 1.29,
+    "explosionTime": 1680597333143
+  },
+  {
+    "coefficient": 11.52,
+    "explosionTime": 1680597369648
+  },
+  {
+    "coefficient": 1.09,
+    "explosionTime": 1680597379765
+  },
+  {
+    "coefficient": 4.8,
+    "explosionTime": 1680597406218
+  },
+  {
+    "coefficient": 11.53,
+    "explosionTime": 1680597442581
+  },
+  {
+    "coefficient": 1.62,
+    "explosionTime": 1680597456607
+  },
+  {
+    "coefficient": 3.02,
+    "explosionTime": 1680597477712
+  },
+  {
+    "coefficient": 2.01,
+    "explosionTime": 1680597494114
+  },
+  {
+    "coefficient": 1.95,
+    "explosionTime": 1680597510190
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680597518532
+  },
+  {
+    "coefficient": 1.13,
+    "explosionTime": 1680597529028
+  },
+  {
+    "coefficient": 1.14,
+    "explosionTime": 1680597539710
+  },
+  {
+    "coefficient": 1.15,
+    "explosionTime": 1680597550292
+  },
+  {
+    "coefficient": 2.34,
+    "explosionTime": 1680597568522
+  },
+  {
+    "coefficient": 6.99,
+    "explosionTime": 1680597599260
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680597607538
+  },
+  {
+    "coefficient": 15.96,
+    "explosionTime": 1680597647684
+  },
+  {
+    "coefficient": 1.58,
+    "explosionTime": 1680597661406
+  },
+  {
+    "coefficient": 2.44,
+    "explosionTime": 1680597680086
+  },
+  {
+    "coefficient": 1.09,
+    "explosionTime": 1680597690184
+  },
+  {
+    "coefficient": 2.15,
+    "explosionTime": 1680597707429
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680597715614
+  },
+  {
+    "coefficient": 2.12,
+    "explosionTime": 1680597732650
+  },
+  {
+    "coefficient": 2.35,
+    "explosionTime": 1680597750910
+  },
+  {
+    "coefficient": 3.51,
+    "explosionTime": 1680597773735
+  },
+  {
+    "coefficient": 2.1,
+    "explosionTime": 1680597790700
+  },
+  {
+    "coefficient": 1.08,
+    "explosionTime": 1680597800759
+  },
+  {
+    "coefficient": 3.62,
+    "explosionTime": 1680597823979
+  },
+  {
+    "coefficient": 5.01,
+    "explosionTime": 1680597850887
+  },
+  {
+    "coefficient": 19.6,
+    "explosionTime": 1680597893630
+  },
+  {
+    "coefficient": 1.07,
+    "explosionTime": 1680597903758
+  },
+  {
+    "coefficient": 3.01,
+    "explosionTime": 1680597924833
+  },
+  {
+    "coefficient": 1.79,
+    "explosionTime": 1680597939883
+  },
+  {
+    "coefficient": 1.26,
+    "explosionTime": 1680597951313
+  },
+  {
+    "coefficient": 2.26,
+    "explosionTime": 1680597969016
+  },
+  {
+    "coefficient": 3.16,
+    "explosionTime": 1680597990644
+  },
+  {
+    "coefficient": 51.64,
+    "explosionTime": 1680598044354
+  },
+  {
+    "coefficient": 5.73,
+    "explosionTime": 1680598072766
+  },
+  {
+    "coefficient": 1.11,
+    "explosionTime": 1680598083218
+  },
+  {
+    "coefficient": 2.21,
+    "explosionTime": 1680598100790
+  },
+  {
+    "coefficient": 1.81,
+    "explosionTime": 1680598116089
+  },
+  {
+    "coefficient": 1.8,
+    "explosionTime": 1680598131299
+  },
+  {
+    "coefficient": 1.03,
+    "explosionTime": 1680598140517
+  },
+  {
+    "coefficient": 4.04,
+    "explosionTime": 1680598164963
+  },
+  {
+    "coefficient": 3.9,
+    "explosionTime": 1680598189012
+  },
+  {
+    "coefficient": 123.22,
+    "explosionTime": 1680598252642
+  },
+  {
+    "coefficient": 2.26,
+    "explosionTime": 1680598270513
+  },
+  {
+    "coefficient": 1.3,
+    "explosionTime": 1680598282309
+  },
+  {
+    "coefficient": 2.29,
+    "explosionTime": 1680598300278
+  },
+  {
+    "coefficient": 23.03,
+    "explosionTime": 1680598344658
+  },
+  {
+    "coefficient": 1.7,
+    "explosionTime": 1680598359240
+  },
+  {
+    "coefficient": 4.07,
+    "explosionTime": 1680598383774
+  },
+  {
+    "coefficient": 1.12,
+    "explosionTime": 1680598394177
+  },
+  {
+    "coefficient": 2.99,
+    "explosionTime": 1680598415194
+  },
+  {
+    "coefficient": 1.27,
+    "explosionTime": 1680598426813
+  },
+  {
+    "coefficient": 5.48,
+    "explosionTime": 1680598454895
+  },
+  {
+    "coefficient": 2.19,
+    "explosionTime": 1680598472401
+  },
+  {
+    "coefficient": 3.17,
+    "explosionTime": 1680598494366
+  },
+  {
+    "coefficient": 2.39,
+    "explosionTime": 1680598512886
+  },
+  {
+    "coefficient": 2.13,
+    "explosionTime": 1680598529998
+  },
+  {
+    "coefficient": 5.47,
+    "explosionTime": 1680598557874
+  },
+  {
+    "coefficient": 2.03,
+    "explosionTime": 1680598574387
+  },
+  {
+    "coefficient": 1.06,
+    "explosionTime": 1680598584121
+  },
+  {
+    "coefficient": 2.76,
+    "explosionTime": 1680598604087
+  },
+  {
+    "coefficient": 1.57,
+    "explosionTime": 1680598617612
+  },
+  {
+    "coefficient": 5.26,
+    "explosionTime": 1680598644931
+  },
+  {
+    "coefficient": 1.27,
+    "explosionTime": 1680598656461
+  },
+  {
+    "coefficient": 1.74,
+    "explosionTime": 1680598671488
+  },
+  {
+    "coefficient": 2.3,
+    "explosionTime": 1680598689395
+  },
+  {
+    "coefficient": 1.25,
+    "explosionTime": 1680598701181
+  },
+  {
+    "coefficient": 1.68,
+    "explosionTime": 1680598715480
+  },
+  {
+    "coefficient": 1.65,
+    "explosionTime": 1680598729784
+  },
+  {
+    "coefficient": 2.87,
+    "explosionTime": 1680598750218
+  },
+  {
+    "coefficient": 5.29,
+    "explosionTime": 1680598777717
+  },
+  {
+    "coefficient": 1.82,
+    "explosionTime": 1680598793187
+  },
+  {
+    "coefficient": 1.16,
+    "explosionTime": 1680598803891
+  },
+  {
+    "coefficient": 1.47,
+    "explosionTime": 1680598816783
+  },
+  {
+    "coefficient": 1.1,
+    "explosionTime": 1680598827049
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680598835204
+  },
+  {
+    "coefficient": 18.05,
+    "explosionTime": 1680598876652
+  },
+  {
+    "coefficient": 27.93,
+    "explosionTime": 1680598923312
+  },
+  {
+    "coefficient": 1.47,
+    "explosionTime": 1680598936182
+  },
+  {
+    "coefficient": 1.44,
+    "explosionTime": 1680598948922
+  },
+  {
+    "coefficient": 2.71,
+    "explosionTime": 1680598968708
+  },
+  {
+    "coefficient": 1.84,
+    "explosionTime": 1680598984487
+  },
+  {
+    "coefficient": 1.65,
+    "explosionTime": 1680598998768
+  },
+  {
+    "coefficient": 1.35,
+    "explosionTime": 1680599010924
+  },
+  {
+    "coefficient": 2.56,
+    "explosionTime": 1680599030028
+  },
+  {
+    "coefficient": 12.07,
+    "explosionTime": 1680599066989
+  },
+  {
+    "coefficient": 6.97,
+    "explosionTime": 1680599097582
+  },
+  {
+    "coefficient": 2.47,
+    "explosionTime": 1680599116272
+  },
+  {
+    "coefficient": 4.29,
+    "explosionTime": 1680599141332
+  },
+  {
+    "coefficient": 1.15,
+    "explosionTime": 1680599151927
+  },
+  {
+    "coefficient": 2.57,
+    "explosionTime": 1680599171188
+  },
+  {
+    "coefficient": 6.99,
+    "explosionTime": 1680599202038
+  },
+  {
+    "coefficient": 1.3,
+    "explosionTime": 1680599213876
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680599222065
+  },
+  {
+    "coefficient": 1.01,
+    "explosionTime": 1680599231667
+  },
+  {
+    "coefficient": 1.71,
+    "explosionTime": 1680599246257
+  },
+  {
+    "coefficient": 2.33,
+    "explosionTime": 1680599264357
+  },
+  {
+    "coefficient": 1.91,
+    "explosionTime": 1680599280254
+  },
+  {
+    "coefficient": 1.27,
+    "explosionTime": 1680599291886
+  },
+  {
+    "coefficient": 2.22,
+    "explosionTime": 1680599309458
+  },
+  {
+    "coefficient": 2.55,
+    "explosionTime": 1680599328571
+  },
+  {
+    "coefficient": 1.68,
+    "explosionTime": 1680599342936
+  },
+  {
+    "coefficient": 1.28,
+    "explosionTime": 1680599354963
+  },
+  {
+    "coefficient": 1.51,
+    "explosionTime": 1680599368131
+  },
+  {
+    "coefficient": 14.64,
+    "explosionTime": 1680599407321
+  },
+  {
+    "coefficient": 2.04,
+    "explosionTime": 1680599424000
+  },
+  {
+    "coefficient": 6.72,
+    "explosionTime": 1680599454240
+  },
+  {
+    "coefficient": 3.55,
+    "explosionTime": 1680599477220
+  },
+  {
+    "coefficient": 1.67,
+    "explosionTime": 1680599491556
+  },
+  {
+    "coefficient": 6.3,
+    "explosionTime": 1680599520954
+  },
+  {
+    "coefficient": 1.03,
+    "explosionTime": 1680599530181
+  },
+  {
+    "coefficient": 18.5,
+    "explosionTime": 1680599572166
+  },
+  {
+    "coefficient": 4.7,
+    "explosionTime": 1680599598243
+  },
+  {
+    "coefficient": 1.1,
+    "explosionTime": 1680599608603
+  },
+  {
+    "coefficient": 15.02,
+    "explosionTime": 1680599648019
+  },
+  {
+    "coefficient": 1.62,
+    "explosionTime": 1680599662052
+  },
+  {
+    "coefficient": 1.49,
+    "explosionTime": 1680599675155
+  },
+  {
+    "coefficient": 1.09,
+    "explosionTime": 1680599685322
+  },
+  {
+    "coefficient": 1.75,
+    "explosionTime": 1680599700300
+  },
+  {
+    "coefficient": 1.09,
+    "explosionTime": 1680599710456
+  },
+  {
+    "coefficient": 5.96,
+    "explosionTime": 1680599739310
+  },
+  {
+    "coefficient": 2.22,
+    "explosionTime": 1680599756967
+  },
+  {
+    "coefficient": 1.32,
+    "explosionTime": 1680599768866
+  },
+  {
+    "coefficient": 2.65,
+    "explosionTime": 1680599788503
+  },
+  {
+    "coefficient": 1.21,
+    "explosionTime": 1680599799650
+  },
+  {
+    "coefficient": 41.63,
+    "explosionTime": 1680599850856
+  },
+  {
+    "coefficient": 4.21,
+    "explosionTime": 1680599875802
+  },
+  {
+    "coefficient": 1.69,
+    "explosionTime": 1680599890318
+  },
+  {
+    "coefficient": 1.17,
+    "explosionTime": 1680599901120
+  },
+  {
+    "coefficient": 1.69,
+    "explosionTime": 1680599915490
+  },
+  {
+    "coefficient": 1.95,
+    "explosionTime": 1680599931650
+  },
+  {
+    "coefficient": 1.27,
+    "explosionTime": 1680599943782
+  },
+  {
+    "coefficient": 2.97,
+    "explosionTime": 1680599964965
+  },
+  {
+    "coefficient": 6.53,
+    "explosionTime": 1680599994882
+  },
+  {
+    "coefficient": 2.14,
+    "explosionTime": 1680600012180
+  },
+  {
+    "coefficient": 22.8,
+    "explosionTime": 1680600056327
+  },
+  {
+    "coefficient": 6.01,
+    "explosionTime": 1680600085310
+  },
+  {
+    "coefficient": 1.18,
+    "explosionTime": 1680600096187
+  },
+  {
+    "coefficient": 3.62,
+    "explosionTime": 1680600119390
+  },
+  {
+    "coefficient": 1.37,
+    "explosionTime": 1680600131718
+  },
+  {
+    "coefficient": 1.2,
+    "explosionTime": 1680600142742
+  },
+  {
+    "coefficient": 7.24,
+    "explosionTime": 1680600173935
+  },
+  {
+    "coefficient": 1.07,
+    "explosionTime": 1680600183914
+  },
+  {
+    "coefficient": 1.65,
+    "explosionTime": 1680600198402
+  },
+  {
+    "coefficient": 1.86,
+    "explosionTime": 1680600213917
+  },
+  {
+    "coefficient": 1.58,
+    "explosionTime": 1680600227592
+  },
+  {
+    "coefficient": 3.07,
+    "explosionTime": 1680600248868
+  },
+  {
+    "coefficient": 3.27,
+    "explosionTime": 1680600270927
+  },
+  {
+    "coefficient": 2.65,
+    "explosionTime": 1680600290947
+  },
+  {
+    "coefficient": 2.78,
+    "explosionTime": 1680600311109
+  },
+  {
+    "coefficient": 1.04,
+    "explosionTime": 1680600320623
+  },
+  {
+    "coefficient": 3.63,
+    "explosionTime": 1680600343724
+  },
+  {
+    "coefficient": 1.05,
+    "explosionTime": 1680600353403
+  },
+  {
+    "coefficient": 2.46,
+    "explosionTime": 1680600372144
+  },
+  {
+    "coefficient": 18.98,
+    "explosionTime": 1680600414177
+  },
+  {
+    "coefficient": 2.69,
+    "explosionTime": 1680600433997
+  },
+  {
+    "coefficient": 6.98,
+    "explosionTime": 1680600464721
+  },
+  {
+    "coefficient": 2.47,
+    "explosionTime": 1680600483441
+  },
+  {
+    "coefficient": 10.51,
+    "explosionTime": 1680600518972
+  },
+  {
+    "coefficient": 1.46,
+    "explosionTime": 1680600531794
+  },
+  {
+    "coefficient": 8.17,
+    "explosionTime": 1680600564299
+  },
+  {
+    "coefficient": 9.5,
+    "explosionTime": 1680600598483
+  },
+  {
+    "coefficient": 1.03,
+    "explosionTime": 1680600607681
+  },
+  {
+    "coefficient": 11.68,
+    "explosionTime": 1680600644275
+  },
+  {
+    "coefficient": 1.02,
+    "explosionTime": 1680600653584
+  },
+  {
+    "coefficient": 4.72,
+    "explosionTime": 1680600679741
+  },
+  {
+    "coefficient": 1.3,
+    "explosionTime": 1680600692178
+  },
+  {
+    "coefficient": 2.59,
+    "explosionTime": 1680600711549
+  },
+  {
+    "coefficient": 1.45,
+    "explosionTime": 1680600724598
+  },
+  {
+    "coefficient": 1.68,
+    "explosionTime": 1680600738991
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680600747327
+  },
+  {
+    "coefficient": 1.13,
+    "explosionTime": 1680600757807
+  },
+  {
+    "coefficient": 1.03,
+    "explosionTime": 1680600766997
+  },
+  {
+    "coefficient": 49.06,
+    "explosionTime": 1680600820092
+  },
+  {
+    "coefficient": 26.1,
+    "explosionTime": 1680600865917
+  },
+  {
+    "coefficient": 9.91,
+    "explosionTime": 1680600900639
+  },
+  {
+    "coefficient": 2.66,
+    "explosionTime": 1680600920409
+  },
+  {
+    "coefficient": 5.66,
+    "explosionTime": 1680600948750
+  },
+  {
+    "coefficient": 3.11,
+    "explosionTime": 1680600970264
+  },
+  {
+    "coefficient": 3.82,
+    "explosionTime": 1680600994132
+  },
+  {
+    "coefficient": 1.81,
+    "explosionTime": 1680601009436
+  },
+  {
+    "coefficient": 1.57,
+    "explosionTime": 1680601023045
+  },
+  {
+    "coefficient": 8.98,
+    "explosionTime": 1680601056486
+  },
+  {
+    "coefficient": 19.66,
+    "explosionTime": 1680601099299
+  },
+  {
+    "coefficient": 3.89,
+    "explosionTime": 1680601123342
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680601131709
+  },
+  {
+    "coefficient": 2.21,
+    "explosionTime": 1680601149318
+  },
+  {
+    "coefficient": 3.49,
+    "explosionTime": 1680601172149
+  },
+  {
+    "coefficient": 2.13,
+    "explosionTime": 1680601189267
+  },
+  {
+    "coefficient": 1.62,
+    "explosionTime": 1680601203303
+  },
+  {
+    "coefficient": 1.35,
+    "explosionTime": 1680601215673
+  },
+  {
+    "coefficient": 29.33,
+    "explosionTime": 1680601262939
+  },
+  {
+    "coefficient": 3.43,
+    "explosionTime": 1680601285532
+  },
+  {
+    "coefficient": 1.58,
+    "explosionTime": 1680601299256
+  },
+  {
+    "coefficient": 2.26,
+    "explosionTime": 1680601317061
+  },
+  {
+    "coefficient": 1.72,
+    "explosionTime": 1680601331846
+  },
+  {
+    "coefficient": 1.08,
+    "explosionTime": 1680601341958
+  },
+  {
+    "coefficient": 1.71,
+    "explosionTime": 1680601356495
+  },
+  {
+    "coefficient": 2.8,
+    "explosionTime": 1680601376930
+  },
+  {
+    "coefficient": 2.32,
+    "explosionTime": 1680601394951
+  },
+  {
+    "coefficient": 5.95,
+    "explosionTime": 1680601423835
+  },
+  {
+    "coefficient": 2.72,
+    "explosionTime": 1680601443815
+  },
+  {
+    "coefficient": 1.07,
+    "explosionTime": 1680601453816
+  },
+  {
+    "coefficient": 1.32,
+    "explosionTime": 1680601465686
+  },
+  {
+    "coefficient": 1.15,
+    "explosionTime": 1680601476245
+  },
+  {
+    "coefficient": 1.04,
+    "explosionTime": 1680601485632
+  },
+  {
+    "coefficient": 1.11,
+    "explosionTime": 1680601495959
+  },
+  {
+    "coefficient": 2.08,
+    "explosionTime": 1680601512779
+  },
+  {
+    "coefficient": 1.45,
+    "explosionTime": 1680601525904
+  },
+  {
+    "coefficient": 1.15,
+    "explosionTime": 1680601536557
+  },
+  {
+    "coefficient": 5.93,
+    "explosionTime": 1680601565322
+  },
+  {
+    "coefficient": 1.38,
+    "explosionTime": 1680601577609
+  },
+  {
+    "coefficient": 2.39,
+    "explosionTime": 1680601596173
+  },
+  {
+    "coefficient": 1.46,
+    "explosionTime": 1680601608996
+  },
+  {
+    "coefficient": 1.54,
+    "explosionTime": 1680601622575
+  },
+  {
+    "coefficient": 2.26,
+    "explosionTime": 1680601640459
+  },
+  {
+    "coefficient": 3.26,
+    "explosionTime": 1680601662570
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680601670877
+  },
+  {
+    "coefficient": 1.32,
+    "explosionTime": 1680601682776
+  },
+  {
+    "coefficient": 3.72,
+    "explosionTime": 1680601706232
+  },
+  {
+    "coefficient": 2.15,
+    "explosionTime": 1680601723425
+  },
+  {
+    "coefficient": 1.91,
+    "explosionTime": 1680601739189
+  },
+  {
+    "coefficient": 1.38,
+    "explosionTime": 1680601752021
+  },
+  {
+    "coefficient": 1.69,
+    "explosionTime": 1680601766458
+  },
+  {
+    "coefficient": 1.1,
+    "explosionTime": 1680601776643
+  },
+  {
+    "coefficient": 1.27,
+    "explosionTime": 1680601788218
+  },
+  {
+    "coefficient": 1.15,
+    "explosionTime": 1680601798814
+  },
+  {
+    "coefficient": 103.25,
+    "explosionTime": 1680601860354
+  },
+  {
+    "coefficient": 1.18,
+    "explosionTime": 1680601871314
+  },
+  {
+    "coefficient": 2.26,
+    "explosionTime": 1680601889069
+  },
+  {
+    "coefficient": 1.01,
+    "explosionTime": 1680601897938
+  },
+  {
+    "coefficient": 67.88,
+    "explosionTime": 1680601954615
+  },
+  {
+    "coefficient": 1.25,
+    "explosionTime": 1680601966579
+  },
+  {
+    "coefficient": 1.28,
+    "explosionTime": 1680601978236
+  },
+  {
+    "coefficient": 1.63,
+    "explosionTime": 1680601992328
+  },
+  {
+    "coefficient": 1.91,
+    "explosionTime": 1680602008167
+  },
+  {
+    "coefficient": 1.19,
+    "explosionTime": 1680602019186
+  },
+  {
+    "coefficient": 2.74,
+    "explosionTime": 1680602039149
+  },
+  {
+    "coefficient": 3.85,
+    "explosionTime": 1680602063037
+  },
+  {
+    "coefficient": 1.15,
+    "explosionTime": 1680602073715
+  },
+  {
+    "coefficient": 1.11,
+    "explosionTime": 1680602084039
+  },
+  {
+    "coefficient": 4.45,
+    "explosionTime": 1680602109497
+  },
+  {
+    "coefficient": 1.01,
+    "explosionTime": 1680602118353
+  },
+  {
+    "coefficient": 2.76,
+    "explosionTime": 1680602138383
+  },
+  {
+    "coefficient": 2.81,
+    "explosionTime": 1680602158749
+  },
+  {
+    "coefficient": 1.94,
+    "explosionTime": 1680602174794
+  },
+  {
+    "coefficient": 5.54,
+    "explosionTime": 1680602202811
+  },
+  {
+    "coefficient": 4.7,
+    "explosionTime": 1680602228968
+  },
+  {
+    "coefficient": 2.57,
+    "explosionTime": 1680602248610
+  },
+  {
+    "coefficient": 9.21,
+    "explosionTime": 1680602282430
+  },
+  {
+    "coefficient": 1.93,
+    "explosionTime": 1680602298365
+  },
+  {
+    "coefficient": 1.18,
+    "explosionTime": 1680602309204
+  },
+  {
+    "coefficient": 9.83,
+    "explosionTime": 1680602343899
+  },
+  {
+    "coefficient": 2.94,
+    "explosionTime": 1680602364813
+  },
+  {
+    "coefficient": 1.42,
+    "explosionTime": 1680602377364
+  },
+  {
+    "coefficient": 1.61,
+    "explosionTime": 1680602391210
+  },
+  {
+    "coefficient": 1.16,
+    "explosionTime": 1680602401956
+  },
+  {
+    "coefficient": 1.28,
+    "explosionTime": 1680602413642
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680602421988
+  },
+  {
+    "coefficient": 2.94,
+    "explosionTime": 1680602459125
+  },
+  {
+    "coefficient": 2.97,
+    "explosionTime": 1680602480060
+  },
+  {
+    "coefficient": 11.45,
+    "explosionTime": 1680602516385
+  },
+  {
+    "coefficient": 1.02,
+    "explosionTime": 1680602525503
+  },
+  {
+    "coefficient": 3.76,
+    "explosionTime": 1680602549006
+  },
+  {
+    "coefficient": 2.64,
+    "explosionTime": 1680602568485
+  },
+  {
+    "coefficient": 1.58,
+    "explosionTime": 1680602582152
+  },
+  {
+    "coefficient": 3.09,
+    "explosionTime": 1680602603684
+  },
+  {
+    "coefficient": 2.03,
+    "explosionTime": 1680602620244
+  },
+  {
+    "coefficient": 2.75,
+    "explosionTime": 1680602640239
+  },
+  {
+    "coefficient": 1.79,
+    "explosionTime": 1680602655450
+  },
+  {
+    "coefficient": 1.34,
+    "explosionTime": 1680602667453
+  },
+  {
+    "coefficient": 1.03,
+    "explosionTime": 1680602676715
+  },
+  {
+    "coefficient": 11.01,
+    "explosionTime": 1680602712544
+  },
+  {
+    "coefficient": 1.4,
+    "explosionTime": 1680602725041
+  },
+  {
+    "coefficient": 1.78,
+    "explosionTime": 1680602740377
+  },
+  {
+    "coefficient": 6.83,
+    "explosionTime": 1680602770712
+  },
+  {
+    "coefficient": 5.96,
+    "explosionTime": 1680602799545
+  },
+  {
+    "coefficient": 45.12,
+    "explosionTime": 1680602851535
+  },
+  {
+    "coefficient": 1.06,
+    "explosionTime": 1680602861357
+  },
+  {
+    "coefficient": 1.15,
+    "explosionTime": 1680602872101
+  },
+  {
+    "coefficient": 2.38,
+    "explosionTime": 1680602890414
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680602898768
+  },
+  {
+    "coefficient": 1.01,
+    "explosionTime": 1680602907584
+  },
+  {
+    "coefficient": 1.13,
+    "explosionTime": 1680602917990
+  },
+  {
+    "coefficient": 2.3,
+    "explosionTime": 1680602936023
+  },
+  {
+    "coefficient": 2.16,
+    "explosionTime": 1680602953206
+  },
+  {
+    "coefficient": 2.32,
+    "explosionTime": 1680602971423
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680602979593
+  },
+  {
+    "coefficient": 2.92,
+    "explosionTime": 1680603000304
+  },
+  {
+    "coefficient": 1.09,
+    "explosionTime": 1680603010479
+  },
+  {
+    "coefficient": 1.38,
+    "explosionTime": 1680603022758
+  },
+  {
+    "coefficient": 3.01,
+    "explosionTime": 1680603043831
+  },
+  {
+    "coefficient": 1.35,
+    "explosionTime": 1680603055946
+  },
+  {
+    "coefficient": 1.14,
+    "explosionTime": 1680603066612
+  },
+  {
+    "coefficient": 3.89,
+    "explosionTime": 1680603090580
+  },
+  {
+    "coefficient": 3.39,
+    "explosionTime": 1680603113401
+  },
+  {
+    "coefficient": 1.25,
+    "explosionTime": 1680603124791
+  },
+  {
+    "coefficient": 1.91,
+    "explosionTime": 1680603140584
+  },
+  {
+    "coefficient": 1.03,
+    "explosionTime": 1680603149880
+  },
+  {
+    "coefficient": 1.08,
+    "explosionTime": 1680603159930
+  },
+  {
+    "coefficient": 2.14,
+    "explosionTime": 1680603177024
+  },
+  {
+    "coefficient": 3.37,
+    "explosionTime": 1680603199347
+  },
+  {
+    "coefficient": 34.55,
+    "explosionTime": 1680603248400
+  },
+  {
+    "coefficient": 1.01,
+    "explosionTime": 1680603257232
+  },
+  {
+    "coefficient": 2,
+    "explosionTime": 1680603273541
+  },
+  {
+    "coefficient": 1.1,
+    "explosionTime": 1680603283719
+  },
+  {
+    "coefficient": 1.96,
+    "explosionTime": 1680603299944
+  },
+  {
+    "coefficient": 5.19,
+    "explosionTime": 1680603327153
+  },
+  {
+    "coefficient": 1.07,
+    "explosionTime": 1680603337156
+  },
+  {
+    "coefficient": 3.58,
+    "explosionTime": 1680603360143
+  },
+  {
+    "coefficient": 10.84,
+    "explosionTime": 1680603395938
+  },
+  {
+    "coefficient": 1.2,
+    "explosionTime": 1680603406887
+  },
+  {
+    "coefficient": 3.28,
+    "explosionTime": 1680603429091
+  },
+  {
+    "coefficient": 1.68,
+    "explosionTime": 1680603443433
+  },
+  {
+    "coefficient": 1.04,
+    "explosionTime": 1680603453026
+  },
+  {
+    "coefficient": 5.53,
+    "explosionTime": 1680603480970
+  },
+  {
+    "coefficient": 1.02,
+    "explosionTime": 1680603490424
+  },
+  {
+    "coefficient": 3.65,
+    "explosionTime": 1680603513626
+  },
+  {
+    "coefficient": 1.46,
+    "explosionTime": 1680603526443
+  },
+  {
+    "coefficient": 1.39,
+    "explosionTime": 1680603538772
+  },
+  {
+    "coefficient": 1.05,
+    "explosionTime": 1680603548581
+  },
+  {
+    "coefficient": 1.18,
+    "explosionTime": 1680603559502
+  },
+  {
+    "coefficient": 14.23,
+    "explosionTime": 1680603598543
+  },
+  {
+    "coefficient": 2.38,
+    "explosionTime": 1680603616984
+  },
+  {
+    "coefficient": 8.51,
+    "explosionTime": 1680603649875
+  },
+  {
+    "coefficient": 2.08,
+    "explosionTime": 1680603666674
+  },
+  {
+    "coefficient": 63.76,
+    "explosionTime": 1680603722696
+  },
+  {
+    "coefficient": 2.96,
+    "explosionTime": 1680603743501
+  },
+  {
+    "coefficient": 1.3,
+    "explosionTime": 1680603755210
+  },
+  {
+    "coefficient": 2.6,
+    "explosionTime": 1680603774514
+  },
+  {
+    "coefficient": 4.19,
+    "explosionTime": 1680603799339
+  },
+  {
+    "coefficient": 2.32,
+    "explosionTime": 1680603817363
+  },
+  {
+    "coefficient": 2.84,
+    "explosionTime": 1680603837769
+  },
+  {
+    "coefficient": 15.89,
+    "explosionTime": 1680603877880
+  },
+  {
+    "coefficient": 1.25,
+    "explosionTime": 1680603889312
+  },
+  {
+    "coefficient": 1.41,
+    "explosionTime": 1680603901823
+  },
+  {
+    "coefficient": 1.64,
+    "explosionTime": 1680603916038
+  },
+  {
+    "coefficient": 1.81,
+    "explosionTime": 1680603931414
+  },
+  {
+    "coefficient": 2.02,
+    "explosionTime": 1680603947966
+  },
+  {
+    "coefficient": 1.32,
+    "explosionTime": 1680603959839
+  },
+  {
+    "coefficient": 96.95,
+    "explosionTime": 1680604020934
+  },
+  {
+    "coefficient": 1.93,
+    "explosionTime": 1680604036990
+  },
+  {
+    "coefficient": 1.18,
+    "explosionTime": 1680604047866
+  },
+  {
+    "coefficient": 1.04,
+    "explosionTime": 1680604057411
+  },
+  {
+    "coefficient": 1.47,
+    "explosionTime": 1680604070266
+  },
+  {
+    "coefficient": 1.4,
+    "explosionTime": 1680604082742
+  },
+  {
+    "coefficient": 2.4,
+    "explosionTime": 1680604101289
+  },
+  {
+    "coefficient": 1.06,
+    "explosionTime": 1680604111187
+  },
+  {
+    "coefficient": 41.3,
+    "explosionTime": 1680604162298
+  },
+  {
+    "coefficient": 878.98,
+    "explosionTime": 1680604248399
+  },
+  {
+    "coefficient": 1.5,
+    "explosionTime": 1680604261580
+  },
+  {
+    "coefficient": 1.09,
+    "explosionTime": 1680604271847
+  },
+  {
+    "coefficient": 1.05,
+    "explosionTime": 1680604281444
+  },
+  {
+    "coefficient": 5.19,
+    "explosionTime": 1680604308641
+  },
+  {
+    "coefficient": 1.1,
+    "explosionTime": 1680604318799
+  },
+  {
+    "coefficient": 256.75,
+    "explosionTime": 1680604390823
+  },
+  {
+    "coefficient": 1.7,
+    "explosionTime": 1680604405355
+  },
+  {
+    "coefficient": 1.62,
+    "explosionTime": 1680604419387
+  },
+  {
+    "coefficient": 2.66,
+    "explosionTime": 1680604439141
+  },
+  {
+    "coefficient": 2.74,
+    "explosionTime": 1680604459104
+  },
+  {
+    "coefficient": 4.67,
+    "explosionTime": 1680604485186
+  },
+  {
+    "coefficient": 1.66,
+    "explosionTime": 1680604499426
+  },
+  {
+    "coefficient": 2.35,
+    "explosionTime": 1680604517740
+  },
+  {
+    "coefficient": 1.19,
+    "explosionTime": 1680604528646
+  },
+  {
+    "coefficient": 2.54,
+    "explosionTime": 1680604547742
+  },
+  {
+    "coefficient": 3.75,
+    "explosionTime": 1680604571310
+  },
+  {
+    "coefficient": 24.63,
+    "explosionTime": 1680604616646
+  },
+  {
+    "coefficient": 1.37,
+    "explosionTime": 1680604629346
+  },
+  {
+    "coefficient": 4.31,
+    "explosionTime": 1680604654551
+  },
+  {
+    "coefficient": 1.54,
+    "explosionTime": 1680604668205
+  },
+  {
+    "coefficient": 12.22,
+    "explosionTime": 1680604705315
+  },
+  {
+    "coefficient": 1.46,
+    "explosionTime": 1680604718147
+  },
+  {
+    "coefficient": 1.37,
+    "explosionTime": 1680604730405
+  },
+  {
+    "coefficient": 1,
+    "explosionTime": 1680604738625
+  },
+  {
+    "coefficient": 1.2,
+    "explosionTime": 1680604749795
+  },
+  {
+    "coefficient": 2.75,
+    "explosionTime": 1680604769764
+  },
+  {
+    "coefficient": 1.48,
+    "explosionTime": 1680604782726
+  },
+  {
+    "coefficient": 1.3,
+    "explosionTime": 1680604795039
+  },
+  {
+    "coefficient": 3.27,
+    "explosionTime": 1680604817311
+  },
+  {
+    "coefficient": 5.74,
+    "explosionTime": 1680604845677
+  },
+  {
+    "coefficient": 2.46,
+    "explosionTime": 1680604864419
+  },
+  {
+    "coefficient": 1.28,
+    "explosionTime": 1680604876114
+  },
+  {
+    "coefficient": 1.02,
+    "explosionTime": 1680604885255
+  },
+  {
+    "coefficient": 1.99,
+    "explosionTime": 1680604901489
+  },
+  {
+    "coefficient": 1.04,
+    "explosionTime": 1680604910859
+  },
+  {
+    "coefficient": 1.61,
+    "explosionTime": 1680604924681
+  },
+  {
+    "coefficient": 1.54,
+    "explosionTime": 1680604938176
+  },
+  {
+    "coefficient": 1.94,
+    "explosionTime": 1680604954341
+  },
+  {
+    "coefficient": 2.33,
+    "explosionTime": 1680604972369
+  }
+]

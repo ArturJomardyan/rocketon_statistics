@@ -1,0 +1,1 @@
+export const prefixOneDigitWithZero = time => (time < 10 ? "0" + time : "" + time);
