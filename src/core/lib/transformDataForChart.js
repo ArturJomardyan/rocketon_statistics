@@ -1,5 +1,5 @@
-export const transformDataForChart = (newArr, filter = 0) => {
-    return newArr.filter(item => item.coefficient > filter).map(item => ({
+export const transformDataForChart = (newArr) => {
+    return newArr.map(item => ({
         coefficient: item.coefficient,
         explosionTime: item.explosionTime.time
     }))

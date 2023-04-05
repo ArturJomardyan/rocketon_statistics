@@ -10,7 +10,7 @@ export const FixData = props => {
     return (
         <div className="containerFixData">
             {
-                getFixData(props).map(item => {
+                getFixData(props).map((item,) => {
                     return <Card bordered={false}>
                         <Statistic
                             title={item.title}
@@ -25,6 +25,7 @@ export const FixData = props => {
                     </Card>
                 })
             }
+
         </div>
     )
 }
@@ -34,27 +35,27 @@ const getFixData = (data) => {
         {
             title: "All Count",
             value: data.count,
-            icon: <SignalFilled className="fixDataIcon" />
+            icon: <SignalFilled className="fixDataIcon"/>
         },
         {
             title: "Date",
             value: getDateRange(data.startDate, data.endDate),
-            icon: <CalendarFilled className="fixDataIcon" />
+            icon: <CalendarFilled className="fixDataIcon"/>
         },
         {
             title: "Time",
             value: `${data.startTime} - ${data.endTime}`,
-            icon: <ClockCircleFilled className="fixDataIcon" />
+            icon: <ClockCircleFilled className="fixDataIcon"/>
         },
         {
             title: "Duration",
             value: data.duration,
-            icon: <PieChartFilled className="fixDataIcon" />
+            icon: <PieChartFilled className="fixDataIcon"/>
         },
         {
             title: "Max Coefficient",
             value: data.maxCoefficient,
-            icon: <StarFilled className="fixDataIcon" />
+            icon: <StarFilled className="fixDataIcon"/>
         }
     ]
 }

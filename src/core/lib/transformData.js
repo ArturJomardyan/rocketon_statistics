@@ -15,8 +15,7 @@ export const transformData = (arr) => {
     const count = dashboardData.length
     const maxCoefficient = Math.max(...dashboardData.map(item => item.coefficient))
 
-    const filter = 50
-    const coefficients = transformDataForChart(dashboardData,filter)
+    const coefficients = transformDataForChart(dashboardData)
 
     return {
         duration,

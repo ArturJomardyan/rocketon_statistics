@@ -7,6 +7,9 @@ export const coefficientsHistories = [
     require('./coefficientsHistory_6.json'),
     require('./coefficientsHistory_7.json'),
     require('./coefficientsHistory_8.json'),
-    require('./coefficientsHistory_9.json')
+    require('./coefficientsHistory_9.json'),
+    require('./coefficientsHistory_10.json'),
+    require('./coefficientsHistory_11.json'),
+    require('./coefficientsHistory_12.json')
 ]
 

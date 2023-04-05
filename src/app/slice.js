@@ -1,19 +1,32 @@
 import {createSlice} from "@reduxjs/toolkit";
 import {useSelector} from "react-redux";
 
-import {transformData} from "../core";
+import {millisecondsToTimeAndDate, transformData} from "../core";
 
 export const rocketonStatisticsSlice = createSlice({
     name: "rocketonStatistics",
     initialState: [],
     reducers: {
         setStatistics(state, {payload}) {
-           return payload.map(item => transformData(item)).sort((a, b) => b.count - a.count);
+            return payload.map(item => transformData(item));
+        },
+        setCoefficientRange(state, {payload}) {
+            const {index, from, to} = payload
+
+            const newArr = require(`../coefficientsHistories/coefficientsHistory_${index + 1}.json`)
+            const filteredArr = newArr.filter(item => item.coefficient > from && item.coefficient < to)
+            state[index] = transformData(filteredArr)
+            state[index].coefficients = filteredArr.map(item => ({
+                    coefficient: item.coefficient,
+                    explosionTime: millisecondsToTimeAndDate(item.explosionTime).time
+                }
+            ));
         }
     }
-});
+})
 
-export const {setStatistics} = rocketonStatisticsSlice.actions
+
+export const {setStatistics, setCoefficientRange} = rocketonStatisticsSlice.actions
 
 export const useStatistics = () => useSelector(state => state[rocketonStatisticsSlice.name])
 
