@@ -1,0 +1,1 @@
+export const formatDuration = ({hours,minutes,seconds}) => `${hours} h. ${minutes} min. ${seconds} sec.`

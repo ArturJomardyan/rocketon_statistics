@@ -1,30 +1,42 @@
+import {Chart, FilteredData, FixData} from "@/components";
 import {Column} from "@ant-design/plots";
+import {config} from "@/components/charts/lib/config";
+import {useDispatch} from "react-redux";
+import {transformDataForChart} from "@/components/charts/lib";
+import {useEffect} from "react";
+import {setNewData, useStatisticsDataById} from "@/provider";
 
-import {config} from "./config";
-import {FixData} from "../FixData";
-import {CoefficientRangeSelector} from "../CoefficientRangeSelector";
-// import {FilteredData} from "../FilteredData";
 
-export const Charts = ({charts}) => {
-    return (
-        charts.map((chart, index) => (
-                <div key={index} style={{padding: "10px", borderBottom: "2px dotted  #007500"}}>
-                    <div style={{display: "flex",alignItems:"center", gap: "20px"}}>
-                        <FixData count={chart.count}
-                                 endDate={chart.endDate}
-                                 endTime={chart.endTime}
-                                 duration={chart.duration}
-                                 startDate={chart.startDate}
-                                 startTime={chart.startTime}
-                                 timeRange={chart.timeRange}
-                                 maxCoefficient={chart.maxCoefficient}
-                        />
-                        <CoefficientRangeSelector index={index}/>
-                        {/*<FilteredData/>*/}
-                    </div>
-                    <Column {...config} data={chart.coefficients} style={{marginTop: "15px"}}/>
-                </div>
-            )
-        )
-    )
+const useChartData = (data, index) => {
+    const dispatch = useDispatch()
+    const chartData = transformDataForChart(data)
+
+    useEffect(() => {
+        dispatch(setNewData({data: {chartData}, index}))
+    }, [])
+
+    return useStatisticsDataById(index).chartData
 }
+
+export const Charts = ({data}) => {
+    const chartData = useChartData(data.rawData, index)
+
+    return data.map((data, index) => {
+
+        return (
+            <div key={index} style={{padding: "10px", borderBottom: "2px dotted  #007500"}}>
+                <div style={{display: "flex", alignItems: "center", gap: "20px"}}>
+                    <FixData index={index} data={data}/>
+                    {/*<CoefficientFilter index={index}/>*/}
+                    <FilteredData data={data}/>
+                </div>
+                {
+                    chartData ? <Column {...config} data={chartData} style={{marginTop: "15px"}}/> : " ...loading"
+                }
+            </div>
+        )
+    })
+}
+
+
+
