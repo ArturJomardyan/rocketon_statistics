@@ -2,8 +2,9 @@ import {useEffect} from "react";
 import {useDispatch} from "react-redux";
 
 import {coefficientsHistories} from "./coefficientsHistories";
+
+import {setData, useStatistics} from "@/provider";
 import {Charts} from "@/components";
-import {useStatistics,setData} from "@/provider";
 
 const useData = () => {
     const dispatch = useDispatch()
