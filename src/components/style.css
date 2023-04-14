@@ -9,7 +9,7 @@
     background: linear-gradient(to right, rgba(45, 91, 45, 0.1), rgb(13, 133, 13));
 }
 
-.containerFixData{
+.cardCollection{
     display: flex;
     gap: 10px;
 }

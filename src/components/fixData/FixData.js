@@ -5,7 +5,7 @@ import '../style.css'
 import {ContainerStatistics} from "@/components";
 import {getCardData} from "./config";
 import {transformDataForFixDashboard} from "./lib";
-import {setNewData, useStatisticsDataById} from "@/provider";
+import {setNewData, useStatisticsDataById} from "@/app/provider";
 
 
 const useData = (data, index) => {
