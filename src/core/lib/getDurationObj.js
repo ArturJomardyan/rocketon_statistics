@@ -10,7 +10,7 @@ export const getDurationObj = ms => {
     const minutes = duration.minutes();
     const hours = duration.hours();
     const days = duration.days();
-    const months = duration.months()
+    const months = duration.months() + 1
     const years = duration.years()
 
     return {

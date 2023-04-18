@@ -1,10 +1,10 @@
-import { configureStore } from "@reduxjs/toolkit";
+import {configureStore} from "@reduxjs/toolkit";
 
-import {rocketonStatisticsSlice } from "./slice";
+import {chartModel} from "@/entities/chart";
 
 export const store = configureStore({
     reducer: {
-        [rocketonStatisticsSlice.name]: rocketonStatisticsSlice.reducer,
+        [chartModel.name]: chartModel.reducer,
     }
 });
 
