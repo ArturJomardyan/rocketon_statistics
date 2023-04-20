@@ -7,7 +7,7 @@ import {
     FILTERED_COUNT,
     MAX_EXCEPTION_TIME,
     MAX_EXPECTATION_GAMES_COUNT
-} from "@/features/cef-filter-dashboard/config/constants";
+} from "@/features/cef-filter-all-dashboard/config/constants";
 
 
 /**

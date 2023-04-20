@@ -1,5 +1,5 @@
-import {CefFilter} from "@/features/cef-filter";
-import {CefFilterDashboard} from "@/features/cef-filter-dashboard/ui/CefFilterDashboard";
+import {CefFilter} from "@/features/cef-filter-all";
+import {CefFilterDashboard} from "@/features/cef-filter-all-dashboard/ui/CefFilterDashboard";
 
 export const FilterSection = () => {
 

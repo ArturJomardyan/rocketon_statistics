@@ -1,6 +1,6 @@
 const func = () => {
     const arr = [];
-    for (let i = 1; i < 48; i++) arr.push(require(`./history_${i}.json`))
+    for (let i = 48; i < 50; i++) arr.push(require(`./history_${i}.json`))
     return arr
 }
 

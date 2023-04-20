@@ -1,7 +1,7 @@
 import {useState} from "react";
 import {Button} from "antd";
 
-import {cefFilterModel} from "@/features/cef-filter";
+import {cefFilterModel} from "@/features/cef-filter-all";
 import * as lib from "../lib";
 
 

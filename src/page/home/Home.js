@@ -1,4 +1,5 @@
 import {FilterSection} from "@/widget/filter-section";
+import {ChartList} from "@/widget/chart-list";
 
 
 export const HomePage = () => {
@@ -6,7 +7,7 @@ export const HomePage = () => {
     return (
         <div>
             <FilterSection/>
-            {/*<ChartList/>*/}
+            <ChartList/>
         </div>
     )
 }
