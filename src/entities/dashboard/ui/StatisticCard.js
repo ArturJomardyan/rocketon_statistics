@@ -8,8 +8,8 @@ export const StatisticCard = ({title,value,icon}) => {
                title={title}
                value={value}
                valueStyle={{
-                   color: '#4d4c4c',
-                   fontSize: "15px",
+                   color: '#7F7F7F',
+                   fontSize: "14px",
                    fontFamily: 'Roboto, sans-serif',
                }}
                prefix={icon}

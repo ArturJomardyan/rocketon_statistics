@@ -18,3 +18,5 @@ export const useChartList = () => {
 };
 
 export const useChartById = id => useSelector(state => selectChartById(state, id));
+
+export const useCharts = () => useSelector(selectCharts)

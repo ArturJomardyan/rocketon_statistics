@@ -6,12 +6,13 @@
     box-shadow: 12px 5px 23px -2px rgba(0, 0, 0, 0.12);
 }
 .ant-card:hover {
-    background: linear-gradient(to right, rgba(255, 255, 255, 0.1), rgb(96, 96, 96));
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.1), rgb(178, 177, 177));
 }
 
 .cardCollection{
     display: flex;
     gap: 10px;
+    margin: 10px;
 }
 
 .icon{

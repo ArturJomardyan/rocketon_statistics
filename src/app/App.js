@@ -1,10 +1,14 @@
-import {cefHistories} from "@/core";
+import "../style.css"
 import {HomePage} from "@/page/home";
 
 
 function App() {
 
-    return <HomePage data={cefHistories}/>
+    return (
+        <>
+            <HomePage/>
+        </>
+    )
 }
 
 export default App;

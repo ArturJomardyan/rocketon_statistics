@@ -1,10 +1,8 @@
 export * from "./formatTime"
 export * from "./formatDate"
 export * from "./padWithZero"
-export * from "./getItemIndexes"
 export * from "./formatDuration"
 export * from "./getDurationObj"
-export * from "./getConsecutiveDiffs"
 export * from "./conditionalConcatenate"
 export * from "./createOptionalArgsCallback"
 

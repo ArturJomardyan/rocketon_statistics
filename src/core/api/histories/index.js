@@ -1,8 +1,8 @@
-export const cefHistories = [
-    require('./history_1.json'),
-    require('./history_2.json'),
-    require('./history_3.json'),
-    require('./history_4.json'),
-    require('./history_5.json'),
-].map((data, index) => ({id: index + 1, data}));
+const func = () => {
+    const arr = [];
+    for (let i = 1; i < 48; i++) arr.push(require(`./history_${i}.json`))
+    return arr
+}
+
+export const cefHistories = func().map((data, index) => ({id: index + 1, data}));
 

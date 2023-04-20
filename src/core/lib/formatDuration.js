@@ -1,1 +1,5 @@
-export const formatDuration = ({hours,minutes,seconds}) => `${hours} h. ${minutes} min. ${seconds} sec.`
+import {padWithZero} from "@/core";
+
+export const formatDuration = ({hours,minutes,seconds}) => {
+   return `${padWithZero(hours)} h. ${padWithZero(minutes)} min. ${padWithZero(seconds)} sec.`
+}
