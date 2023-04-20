@@ -16,8 +16,6 @@ export const CefFilterDashboard = () => {
     const mainAverage = lib.getOneAverageFromAllAverageGamesDiffs(sortedByAverage)
     const mainAverageFromAllMax = lib.getOneAverageFromAllMaxGamesDiff(sortedByAverage)
 
-    const maxAverageDiffFromAllAverages = lib.getMaxAverageDiffFromAllAverages(sortedByAverage)
-    const maxDiffFromAllMaxes = lib.getMaxDiffFromAllMaxes(sortedByAverage)
 
     return (
         <>
@@ -27,10 +25,8 @@ export const CefFilterDashboard = () => {
             >
                 {state ? "Sort By max games diff" : "Sort By average games diff"}
             </Button>
-            <h1>Average diff From all averages: {mainAverage} >>> Max Average Diff from all
-                Average: {maxAverageDiffFromAllAverages}</h1>
-            <h1>Average diff From all maxes: {mainAverageFromAllMax} >>> Max Diff from all
-                max: {maxDiffFromAllMaxes}</h1>
+            <h1>Average diff From all averages: {mainAverage} </h1>
+            <h1>Average diff From all maxes: {mainAverageFromAllMax} </h1>
             {
                 state ? <pre>
             {

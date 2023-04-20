@@ -48,17 +48,7 @@ export const getOneAverageFromAllMaxGamesDiff = (arr) => {
     return (averages.reduce((acc,curr) => acc + curr,0) / averages.length).toFixed(2)
 }
 
-export const getMaxAverageDiffFromAllAverages = (arr) => {
-   const sortedArr = [...arr].sort((a, b) => b.data.averageGamesDiff - a.data.averageGamesDiff)
 
-    return sortedArr[0].data.averageGamesDiff
-}
-
-export const getMaxDiffFromAllMaxes = (arr) => {
-    const sortedArr = [...arr].sort((a, b) => b.data.maxGamesDiff - a.data.maxGamesDiff)
-
-    return sortedArr[0].data.maxGamesDiff
-}
 
 
 /* 1 step. EXAMPLE --> range > 50  first and last point also added regardless of the range
