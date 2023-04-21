@@ -1,8 +1,11 @@
 import {useState} from "react";
 import {Button} from "antd";
 
+import {JsonPretty} from "@/core";
 import {cefFilterModel} from "@/features/cef-filter-all";
+
 import * as lib from "../lib";
+
 
 
 export const CefFilterDashboard = () => {
@@ -28,17 +31,9 @@ export const CefFilterDashboard = () => {
             <h1>Average diff From all averages: {mainAverage} </h1>
             <h1>Average diff From all maxes: {mainAverageFromAllMax} </h1>
             {
-                state ? <pre>
-            {
-                JSON.stringify(sortedByAverage, null, 2)
-            }
-        </pre> : <pre>
-            {
-                JSON.stringify(sortedByMax, null, 2)
-            }
-        </pre>
-
+                state ? <JsonPretty>{sortedByAverage}</JsonPretty> : <JsonPretty>{sortedByMax}</JsonPretty>
             }
         </>
     )
 }
+

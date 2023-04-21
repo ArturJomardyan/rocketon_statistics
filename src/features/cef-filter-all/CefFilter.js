@@ -1,5 +1,5 @@
-import {useState} from "react";
-import {Button, Input} from "antd";
+import React, {useState} from "react";
+import {Button, Input,TimePicker} from "antd";
 
 import {cefFilterInitialState, useSetCefFilter} from "./model";
 
@@ -14,12 +14,20 @@ export const CefFilter = () => {
         setState(cefFilterInitialState)
         setSetCefFilter(cefFilterInitialState)
     }
+
     const onChange = (e) => {
         setState({
             ...state,
             [e.target.name]: e.target.value
         })
+    }
 
+    const onChangeTime = (e) => {
+        setState({
+            ...state,
+            timeFrom:e[0].hour,
+            timeTo:e[1].hour,
+        })
     }
 
     return (
@@ -36,6 +44,7 @@ export const CefFilter = () => {
                        onKeyDown={handleKeyDown}
                        value={state.to === cefFilterInitialState.to ? "" : state.to}
         />
+            Time Range: <TimePicker.RangePicker onChange={onChangeTime}/>
             <Button onClick={onSave}>Save</Button>
             <Button onClick={onReset}>Reset</Button>
         </div>

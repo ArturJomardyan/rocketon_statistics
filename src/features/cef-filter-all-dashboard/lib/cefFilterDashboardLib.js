@@ -23,6 +23,8 @@ import {cefHistories, formatDuration, getDurationObj} from "@/core";
 ]
 * */
 export const finalFunc = (range) => {
+    const filteredCefHistories = cefHistories.map(i => i.data.map(item => item.time > range.timeFrom && item.time < range.to))
+
     return cefHistories.map(item => {
         return {
             id: item.id,
@@ -39,16 +41,14 @@ export const getSortedDiffsResultByMax = (range) => [...finalFunc(range)].sort((
 export const getOneAverageFromAllAverageGamesDiffs = (arr) => {
     const averages = arr.map(obj => +obj.data.averageGamesDiff)
 
-    return (averages.reduce((acc,curr) => acc + curr,0) / averages.length).toFixed(2)
+    return (averages.reduce((acc, curr) => acc + curr, 0) / averages.length).toFixed(2)
 }
 
 export const getOneAverageFromAllMaxGamesDiff = (arr) => {
     const averages = arr.map(obj => +obj.data.maxGamesDiff)
 
-    return (averages.reduce((acc,curr) => acc + curr,0) / averages.length).toFixed(2)
+    return (averages.reduce((acc, curr) => acc + curr, 0) / averages.length).toFixed(2)
 }
-
-
 
 
 /* 1 step. EXAMPLE --> range > 50  first and last point also added regardless of the range
@@ -90,6 +90,7 @@ export const getAverageAndMaxStatistics = targets => {
     let maxTimesDiff = 0
     const gamesCountDiff = []
     const timesDiff = [];
+    const targetsCount = Object.keys(targets).length
 
     const indexes = Object.keys(targets)
 
@@ -121,15 +122,23 @@ export const getAverageAndMaxStatistics = targets => {
         seconds: averageTimeSeconds
     } = getDurationObj(averageTimesDiff)
 
+    const averageTimesDiffFormatted = formatDuration({
+        hours: averageTimeHours,
+        minutes: averageTimeMinute,
+        seconds: averageTimeSeconds
+    })
+    const maxTimesDiffFormatted = formatDuration({
+        hours: maxTimeHours,
+        minutes: maxTimeMinutes,
+        seconds: maxTimeSeconds
+    })
+
     return {
-        averageTimesDiff: formatDuration({
-            hours: averageTimeHours,
-            minutes: averageTimeMinute,
-            seconds: averageTimeSeconds
-        }),
+        count: targetsCount,
+        averageTimesDiff: averageTimesDiffFormatted,
         averageGamesDiff,
         maxGamesDiff,
-        maxTimesDiff: formatDuration({hours: maxTimeHours, minutes: maxTimeMinutes, seconds: maxTimeSeconds}),
+        maxTimesDiff: maxTimesDiffFormatted,
     }
 }
 

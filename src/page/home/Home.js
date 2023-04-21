@@ -7,7 +7,7 @@ export const HomePage = () => {
     return (
         <div>
             <FilterSection/>
-            <ChartList/>
+            {/*<ChartList/>*/}
         </div>
     )
 }
