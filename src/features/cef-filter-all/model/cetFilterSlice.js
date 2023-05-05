@@ -3,8 +3,14 @@ import {createSelector, createSlice} from "@reduxjs/toolkit";
 export const cefFilterInitialState = {
     from: 1,
     to: 1000000,
-    timeFrom:1,
-    timeTo:24
+    timeFrom: {
+        hours: null,
+        minutes: null,
+    },
+    timeTo: {
+        hours: null,
+        minutes: null,
+    }
 };
 
 export const cefFilterSlice = createSlice({

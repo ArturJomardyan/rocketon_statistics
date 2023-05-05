@@ -4,6 +4,7 @@ import {Button, Input,TimePicker} from "antd";
 import {cefFilterInitialState, useSetCefFilter} from "./model";
 
 
+
 export const CefFilter = () => {
     const [state, setState] = useState(cefFilterInitialState)
     const setSetCefFilter = useSetCefFilter()
@@ -23,13 +24,14 @@ export const CefFilter = () => {
     }
 
     const onChangeTime = (e) => {
+        console.log(e[0]["$H"],e[0])
         setState({
             ...state,
-            timeFrom:e[0].hour,
-            timeTo:e[1].hour,
+            timeFrom:e[0]["$H"],
+            timeTo:e[1]["$H"],
         })
     }
-
+    console.log(state)
     return (
         <div className="flex gap-[10px] m-[20px]">
             From: <Input name="from"
